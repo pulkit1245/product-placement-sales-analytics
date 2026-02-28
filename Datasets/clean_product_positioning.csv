@@ -1,0 +1,1001 @@
+product_id,product_position,price,competitors_price,promotion,foot_traffic,consumer_demographics,product_category,seasonal,sales_volume,sales_revenue,price_difference
+185102,aisle,17.07,16.16,no,medium,families,clothing,no,2823,48188.61,0.9100000000000001
+188771,aisle,17.41,13.13,no,low,seniors,clothing,no,654,11386.14,4.279999999999999
+180176,end-cap,43.16,38.37,yes,medium,young adults,electronics,yes,2220,95815.2,4.789999999999999
+112917,aisle,42.26,38.98,yes,low,families,clothing,yes,1568,66263.68,3.280000000000001
+192936,end-cap,47.94,45.59,no,medium,college students,clothing,yes,2942,141039.47999999998,2.3499999999999943
+117590,end-cap,34.5,34.34,no,medium,seniors,clothing,no,2968,102396.0,0.1599999999999966
+189118,front of store,41.11,40.15,yes,high,college students,clothing,yes,952,39136.72,0.9600000000000009
+182157,aisle,15.75,12.3,no,low,college students,clothing,no,2421,38130.75,3.4499999999999993
+141861,aisle,30.07,26.75,yes,high,families,electronics,yes,1916,57614.12,3.3200000000000003
+137121,aisle,38.0,33.38,no,high,families,electronics,yes,656,24928.0,4.619999999999997
+113143,aisle,27.42,22.82,yes,high,college students,food,yes,2663,73019.46,4.600000000000001
+140028,aisle,12.15,9.39,yes,high,college students,food,yes,1260,15309.0,2.76
+134693,aisle,31.45,28.93,yes,low,college students,food,no,2124,66799.8,2.5199999999999996
+151396,front of store,19.81,17.04,yes,medium,families,food,yes,729,14441.49,2.7699999999999996
+132889,aisle,15.74,12.8,yes,low,families,food,yes,2265,35651.1,2.9399999999999995
+152174,end-cap,13.16,12.94,no,medium,young adults,clothing,no,2226,29294.16,0.22000000000000064
+129906,aisle,14.58,14.49,no,medium,young adults,food,no,2089,30457.62,0.08999999999999986
+195879,front of store,21.03,18.54,yes,medium,young adults,food,yes,2339,49189.170000000006,2.490000000000002
+155050,aisle,19.92,14.93,no,high,college students,clothing,yes,2321,46234.32000000001,4.990000000000002
+194410,end-cap,36.2,32.49,no,low,young adults,electronics,no,669,24217.800000000003,3.710000000000001
+141904,end-cap,27.36,23.03,yes,medium,college students,food,yes,1712,46840.32,4.329999999999998
+124981,front of store,42.74,40.29,no,low,families,clothing,yes,1832,78299.68000000001,2.450000000000003
+161909,aisle,22.16,20.85,yes,medium,young adults,electronics,no,1290,28586.4,1.3099999999999987
+129152,end-cap,48.51,47.56,no,low,seniors,electronics,no,2356,114289.56,0.9499999999999957
+183243,front of store,39.32,37.12,yes,low,families,food,no,1524,59923.68,2.200000000000003
+198248,front of store,27.81,23.4,yes,high,seniors,clothing,no,1644,45719.64,4.41
+191230,end-cap,49.95,45.65,no,high,young adults,clothing,no,966,48251.700000000004,4.300000000000004
+187234,front of store,39.27,35.55,yes,low,college students,clothing,yes,2575,101120.25000000001,3.720000000000006
+148888,front of store,16.92,14.44,no,low,families,clothing,no,2774,46936.08,2.480000000000002
+110805,front of store,35.91,34.74,yes,medium,young adults,food,no,2477,88949.06999999999,1.1699999999999946
+179801,front of store,46.81,43.04,no,low,college students,electronics,yes,2608,122080.48000000001,3.770000000000003
+134927,aisle,6.1,5.37,yes,high,families,electronics,yes,2252,13737.199999999999,0.7299999999999995
+123150,end-cap,37.03,34.9,yes,medium,seniors,electronics,no,2074,76800.22,2.1300000000000026
+159145,end-cap,19.01,18.27,yes,high,seniors,electronics,no,2579,49026.79,0.740000000000002
+172364,aisle,12.3,10.3,yes,high,college students,clothing,no,2931,36051.3,2.0
+178281,end-cap,11.64,7.89,no,low,college students,electronics,yes,1145,13327.800000000001,3.750000000000001
+194339,end-cap,18.2,16.18,no,low,seniors,clothing,no,1792,32614.399999999998,2.0199999999999996
+174412,aisle,23.93,19.71,no,low,young adults,electronics,yes,1796,42978.28,4.219999999999999
+114877,aisle,21.76,21.09,no,medium,college students,clothing,no,1860,40473.600000000006,0.6700000000000017
+140727,end-cap,15.89,12.07,yes,high,families,clothing,yes,1002,15921.78,3.8200000000000003
+133109,front of store,36.13,31.33,no,high,families,clothing,yes,2063,74536.19,4.800000000000004
+127296,aisle,34.02,32.31,no,low,families,food,no,1165,39633.3,1.7100000000000009
+133757,aisle,7.38,3.97,yes,high,families,electronics,no,2071,15283.98,3.4099999999999997
+111760,end-cap,19.3,17.41,no,low,college students,clothing,no,1474,28448.2,1.8900000000000006
+198375,end-cap,7.1,6.84,no,low,seniors,clothing,no,2202,15634.199999999999,0.2599999999999998
+168837,aisle,43.43,38.54,no,low,families,electronics,no,665,28880.95,4.890000000000001
+138505,front of store,46.72,42.48,no,low,seniors,food,no,2478,115772.16,4.240000000000002
+116228,end-cap,36.32,32.95,yes,medium,families,clothing,no,647,23499.04,3.3699999999999974
+167592,front of store,17.76,16.84,yes,medium,seniors,food,no,707,12556.320000000002,0.9200000000000017
+133100,end-cap,47.78,43.18,yes,medium,families,clothing,no,2729,130391.62000000001,4.600000000000001
+119955,front of store,34.12,32.94,no,high,young adults,electronics,no,1590,54250.799999999996,1.1799999999999997
+189349,end-cap,45.91,42.91,yes,medium,seniors,electronics,no,1245,57157.95,3.0
+127478,front of store,29.3,26.06,no,low,young adults,clothing,yes,2498,73191.40000000001,3.240000000000002
+180661,front of store,39.96,36.05,no,high,young adults,food,yes,1041,41598.36,3.9100000000000037
+186681,end-cap,39.46,35.1,no,low,young adults,food,yes,1717,67752.82,4.359999999999999
+133183,front of store,45.07,44.26,yes,low,families,electronics,yes,2859,128855.13,0.8100000000000023
+173508,aisle,13.67,13.18,yes,high,families,food,no,1658,22664.86,0.4900000000000002
+187930,end-cap,19.95,19.19,no,medium,college students,electronics,yes,706,14084.699999999999,0.759999999999998
+124088,end-cap,48.71,46.44,yes,high,young adults,electronics,yes,2065,100586.15000000001,2.270000000000003
+190238,front of store,34.67,32.6,no,high,seniors,clothing,yes,1917,66462.39,2.0700000000000003
+151925,end-cap,47.63,42.99,yes,medium,seniors,food,yes,2179,103785.77,4.640000000000001
+163234,front of store,12.03,7.97,no,medium,young adults,clothing,no,1633,19644.989999999998,4.06
+135610,aisle,36.04,35.59,yes,high,college students,electronics,yes,1513,54528.52,0.44999999999999574
+117065,aisle,47.39,47.31,yes,high,seniors,electronics,yes,758,35921.62,0.0799999999999983
+149315,end-cap,24.71,24.08,yes,low,families,electronics,no,718,17741.78,0.6300000000000026
+149510,aisle,36.18,34.02,no,high,young adults,clothing,yes,1412,51086.159999999996,2.1599999999999966
+137990,aisle,12.01,10.23,no,high,seniors,clothing,no,2929,35177.29,1.7799999999999994
+154016,end-cap,46.04,42.05,yes,high,seniors,food,yes,2366,108930.64,3.990000000000002
+117751,aisle,10.0,5.63,no,medium,seniors,electronics,no,2749,27490.0,4.37
+182362,front of store,14.1,13.51,no,low,families,electronics,no,2019,28467.899999999998,0.5899999999999999
+117725,aisle,40.15,35.86,no,low,seniors,food,yes,1506,60465.9,4.289999999999999
+145289,end-cap,30.65,30.08,no,high,families,clothing,no,1012,31017.8,0.5700000000000003
+173576,end-cap,46.74,46.32,yes,medium,college students,electronics,no,1838,85908.12000000001,0.4200000000000017
+175059,aisle,19.16,18.62,yes,high,seniors,food,no,2170,41577.2,0.5399999999999991
+199368,front of store,31.93,27.22,no,low,families,clothing,yes,1061,33877.73,4.710000000000001
+162883,front of store,18.3,14.19,yes,low,seniors,food,no,786,14383.800000000001,4.110000000000001
+135490,front of store,18.72,17.29,no,medium,families,clothing,no,1094,20479.68,1.4299999999999997
+125408,end-cap,21.79,18.92,yes,high,college students,clothing,yes,2220,48373.799999999996,2.8699999999999974
+134763,front of store,18.75,17.42,no,low,college students,clothing,yes,2048,38400.0,1.3299999999999983
+143231,aisle,44.2,42.72,no,low,families,food,no,2578,113947.6,1.480000000000004
+125409,end-cap,42.55,40.35,yes,high,college students,clothing,no,2040,86802.0,2.1999999999999957
+183074,aisle,34.15,30.46,no,low,college students,clothing,no,2791,95312.65,3.6899999999999977
+147947,aisle,19.24,15.64,yes,high,young adults,clothing,yes,1249,24030.76,3.599999999999998
+174171,front of store,8.01,5.34,yes,medium,seniors,food,yes,2273,18206.73,2.67
+183064,front of store,19.25,17.13,yes,low,young adults,electronics,no,1773,34130.25,2.120000000000001
+177131,aisle,47.16,43.78,yes,high,families,food,yes,1733,81728.28,3.3799999999999955
+128179,end-cap,38.75,35.22,yes,high,seniors,electronics,no,2060,79825.0,3.530000000000001
+152723,aisle,44.16,42.34,no,high,seniors,food,yes,2849,125811.84,1.8199999999999932
+123824,aisle,32.35,28.97,yes,low,families,electronics,no,2277,73660.95,3.3800000000000026
+166345,aisle,40.77,39.73,no,low,seniors,electronics,yes,1135,46273.950000000004,1.0400000000000063
+199279,aisle,18.36,15.23,no,low,seniors,electronics,no,1770,32497.2,3.129999999999999
+167981,end-cap,37.4,37.29,no,high,college students,clothing,no,730,27302.0,0.10999999999999943
+146839,aisle,10.04,7.54,no,medium,college students,food,no,1525,15310.999999999998,2.499999999999999
+187180,front of store,47.5,46.74,no,high,families,electronics,yes,647,30732.5,0.759999999999998
+167640,end-cap,46.56,43.71,yes,high,families,electronics,yes,1017,47351.520000000004,2.8500000000000014
+165158,front of store,40.44,37.89,no,low,college students,food,no,1622,65593.68,2.549999999999997
+111521,front of store,31.98,27.82,yes,high,seniors,food,yes,2553,81644.94,4.16
+120228,end-cap,15.92,13.41,no,high,seniors,food,no,2347,37364.24,2.51
+133078,aisle,48.34,45.21,no,low,families,clothing,yes,2535,122541.90000000001,3.1300000000000026
+137598,aisle,38.21,37.69,no,medium,families,electronics,yes,2839,108478.19,0.5200000000000031
+138779,front of store,44.97,42.24,yes,low,families,clothing,yes,2801,125960.97,2.729999999999997
+198329,front of store,19.55,15.77,yes,low,young adults,electronics,yes,628,12277.4,3.780000000000001
+110295,end-cap,13.1,8.47,yes,low,young adults,electronics,no,1448,18968.8,4.629999999999999
+196427,aisle,36.73,31.98,yes,low,families,electronics,no,1401,51458.729999999996,4.7499999999999964
+110075,front of store,42.96,41.45,yes,medium,college students,electronics,yes,2185,93867.6,1.509999999999998
+132322,front of store,37.74,34.99,yes,low,families,clothing,no,2135,80574.90000000001,2.75
+199631,front of store,14.8,14.51,yes,medium,families,electronics,no,1269,18781.2,0.2900000000000009
+182306,front of store,5.93,5.84,no,medium,seniors,food,no,2805,16633.649999999998,0.08999999999999986
+194915,aisle,23.91,21.1,yes,low,seniors,food,no,1796,42942.36,2.8099999999999987
+131298,end-cap,41.46,37.69,yes,medium,college students,electronics,no,2133,88434.18000000001,3.770000000000003
+168571,aisle,10.78,6.39,no,high,seniors,electronics,no,1778,19166.84,4.39
+154224,end-cap,22.69,21.79,yes,medium,families,food,no,2474,56135.060000000005,0.9000000000000021
+171061,aisle,23.25,22.71,no,low,college students,electronics,yes,2032,47244.0,0.5399999999999991
+119049,aisle,16.24,11.33,no,low,seniors,clothing,yes,1659,26942.159999999996,4.909999999999998
+158781,end-cap,19.91,16.77,yes,medium,young adults,clothing,yes,2443,48640.13,3.1400000000000006
+151438,aisle,5.41,2.73,no,medium,seniors,food,yes,1137,6151.17,2.68
+152871,end-cap,13.39,12.76,no,high,families,clothing,yes,1847,24731.33,0.6300000000000008
+126806,end-cap,40.27,37.16,yes,high,young adults,clothing,yes,2404,96809.08,3.1100000000000065
+134104,end-cap,23.84,21.61,no,medium,college students,electronics,yes,1466,34949.44,2.2300000000000004
+120266,front of store,20.04,16.05,no,high,families,electronics,no,2328,46653.119999999995,3.9899999999999984
+173550,end-cap,33.0,29.46,no,medium,families,electronics,yes,1431,47223.0,3.539999999999999
+175927,end-cap,22.25,21.68,no,medium,young adults,clothing,yes,1506,33508.5,0.5700000000000003
+154278,end-cap,17.07,16.29,no,medium,seniors,clothing,yes,2749,46925.43,0.7800000000000011
+183537,front of store,40.64,36.61,yes,low,college students,electronics,yes,2434,98917.76,4.030000000000001
+150424,front of store,25.47,25.19,no,medium,young adults,food,yes,2067,52646.49,0.2799999999999976
+183825,aisle,42.7,40.51,yes,low,families,clothing,yes,2989,127630.3,2.190000000000005
+144012,front of store,33.28,31.57,yes,low,families,electronics,no,743,24727.04,1.7100000000000009
+147051,front of store,31.59,28.91,no,low,young adults,electronics,no,2325,73446.75,2.6799999999999997
+185800,end-cap,24.2,21.33,no,medium,college students,electronics,yes,1841,44552.2,2.870000000000001
+197524,aisle,31.52,28.79,yes,low,seniors,clothing,yes,2231,70321.12,2.7300000000000004
+148823,aisle,12.31,8.65,no,low,seniors,clothing,yes,2211,27217.41,3.66
+114550,end-cap,28.13,25.72,no,low,young adults,clothing,no,2114,59466.82,2.41
+125398,aisle,48.12,43.56,yes,high,college students,electronics,yes,1350,64962.0,4.559999999999995
+123985,end-cap,9.52,6.43,no,high,seniors,electronics,no,2240,21324.8,3.09
+186638,end-cap,18.78,17.11,yes,high,college students,electronics,no,1296,24338.88,1.6700000000000017
+167281,end-cap,19.49,16.8,yes,high,families,electronics,yes,892,17385.079999999998,2.6899999999999977
+118578,end-cap,9.07,6.59,no,high,seniors,clothing,yes,1678,15219.460000000001,2.4800000000000004
+174041,end-cap,5.06,4.51,no,medium,seniors,electronics,no,2016,10200.96,0.5499999999999998
+127644,front of store,36.48,36.14,no,low,young adults,clothing,yes,1498,54647.03999999999,0.3399999999999963
+132007,aisle,38.63,35.08,no,low,families,clothing,yes,2491,96227.33,3.5500000000000043
+147998,aisle,36.43,34.91,no,low,young adults,clothing,no,2556,93115.08,1.5200000000000031
+176666,aisle,43.93,41.71,yes,low,families,food,no,2852,125288.36,2.219999999999999
+193686,aisle,25.07,21.6,yes,medium,college students,food,no,1899,47607.93,3.469999999999999
+163610,front of store,39.37,36.12,yes,high,families,food,no,2466,97086.42,3.25
+170364,aisle,7.88,6.55,no,medium,college students,food,no,818,6445.84,1.33
+167599,aisle,13.94,11.06,no,medium,young adults,clothing,no,1500,20910.0,2.879999999999999
+166421,end-cap,44.85,39.96,yes,high,young adults,clothing,no,2878,129078.3,4.890000000000001
+129247,front of store,47.79,45.05,yes,low,college students,electronics,no,2386,114026.94,2.740000000000002
+127314,end-cap,13.34,11.51,yes,medium,families,food,yes,2076,27693.84,1.83
+111979,front of store,21.28,19.52,no,medium,families,food,no,2734,58179.520000000004,1.7600000000000016
+120354,aisle,37.15,35.98,yes,high,seniors,food,no,2836,105357.4,1.1700000000000017
+144848,front of store,18.58,16.19,no,medium,college students,clothing,no,2193,40745.939999999995,2.389999999999997
+111957,aisle,37.86,33.73,yes,high,seniors,food,no,2164,81929.04,4.130000000000003
+160763,front of store,20.34,17.62,yes,high,college students,electronics,yes,991,20156.94,2.719999999999999
+168270,end-cap,37.62,37.33,yes,medium,young adults,clothing,yes,1525,57370.49999999999,0.28999999999999915
+195082,front of store,16.74,14.22,no,low,families,electronics,no,923,15451.019999999999,2.519999999999998
+110329,front of store,44.11,43.31,no,low,college students,clothing,yes,2397,105731.67,0.7999999999999972
+147449,end-cap,12.89,10.18,no,low,families,electronics,no,1191,15351.99,2.710000000000001
+193332,aisle,37.73,36.7,yes,low,college students,electronics,no,1237,46672.009999999995,1.029999999999994
+146804,aisle,14.38,11.45,yes,medium,families,food,no,1504,21627.52,2.9300000000000015
+188909,aisle,16.99,16.98,yes,medium,seniors,food,yes,2863,48642.369999999995,0.00999999999999801
+165910,end-cap,39.26,37.8,yes,high,college students,clothing,no,2760,108357.59999999999,1.4600000000000009
+136738,front of store,36.52,31.9,no,low,seniors,electronics,yes,542,19793.84,4.6200000000000045
+144497,end-cap,31.39,28.18,yes,low,young adults,food,yes,1105,34685.95,3.210000000000001
+135036,end-cap,46.1,42.07,yes,low,college students,clothing,no,1435,66153.5,4.030000000000001
+166331,aisle,19.28,17.22,yes,low,families,electronics,yes,2877,55468.560000000005,2.0600000000000023
+139789,aisle,6.22,3.38,no,high,families,food,yes,1094,6804.679999999999,2.84
+118569,aisle,40.06,39.41,no,medium,young adults,clothing,yes,994,39819.64,0.6500000000000057
+155848,end-cap,46.91,46.85,yes,medium,seniors,electronics,no,1942,91099.21999999999,0.05999999999999517
+152563,front of store,42.42,40.6,no,low,college students,electronics,yes,2572,109104.24,1.8200000000000003
+115153,aisle,30.55,26.84,no,medium,families,electronics,no,1736,53034.8,3.710000000000001
+125938,aisle,39.07,37.81,yes,high,young adults,clothing,yes,1204,47040.28,1.259999999999998
+122809,end-cap,47.47,43.47,no,high,young adults,clothing,yes,1592,75572.24,4.0
+181502,front of store,10.83,8.48,yes,high,young adults,electronics,no,2591,28060.53,2.3499999999999996
+182779,end-cap,7.27,4.93,yes,low,young adults,food,yes,2097,15245.189999999999,2.34
+155674,front of store,16.91,14.52,no,low,families,clothing,no,897,15168.27,2.3900000000000006
+182866,aisle,41.95,40.42,no,high,seniors,clothing,yes,1552,65106.4,1.5300000000000011
+148230,front of store,49.98,45.42,yes,medium,young adults,clothing,no,2494,124650.12,4.559999999999995
+126979,front of store,30.53,30.01,no,high,seniors,clothing,no,2141,65364.73,0.5199999999999996
+135521,end-cap,5.38,1.63,no,medium,young adults,electronics,yes,2835,15252.3,3.75
+185809,end-cap,47.3,46.34,no,high,families,electronics,no,622,29420.6,0.9599999999999937
+171520,end-cap,30.02,28.02,yes,low,families,electronics,yes,2901,87088.02,2.0
+122926,end-cap,31.05,27.1,no,low,young adults,food,no,867,26920.350000000002,3.9499999999999993
+150953,front of store,48.14,47.6,yes,low,young adults,food,yes,2434,117172.76,0.5399999999999991
+115873,end-cap,43.99,39.08,yes,high,seniors,electronics,yes,2606,114637.94,4.910000000000004
+115581,aisle,48.63,46.11,no,medium,college students,clothing,yes,2728,132662.64,2.520000000000003
+183634,front of store,25.95,21.98,yes,medium,seniors,clothing,yes,2778,72089.09999999999,3.969999999999999
+122484,aisle,21.73,16.98,yes,high,college students,food,yes,558,12125.34,4.75
+183574,aisle,19.0,14.94,yes,high,college students,electronics,yes,1752,33288.0,4.0600000000000005
+185307,front of store,41.4,39.95,no,high,families,clothing,yes,2743,113560.2,1.4499999999999957
+118719,end-cap,31.62,27.6,no,medium,college students,food,yes,1669,52773.78,4.02
+134788,front of store,36.11,34.17,no,high,college students,food,no,2179,78683.69,1.9399999999999977
+140142,front of store,14.5,13.62,yes,medium,young adults,food,no,606,8787.0,0.8800000000000008
+153997,end-cap,15.27,14.61,no,high,college students,electronics,yes,1608,24554.16,0.6600000000000001
+123230,aisle,16.59,13.03,no,medium,young adults,clothing,yes,880,14599.2,3.5600000000000005
+154676,aisle,26.04,23.26,no,low,college students,electronics,no,943,24555.719999999998,2.7799999999999976
+152985,aisle,6.25,2.86,yes,medium,seniors,clothing,yes,1049,6556.25,3.39
+175584,front of store,10.57,8.54,no,low,young adults,clothing,no,2084,22027.88,2.030000000000001
+147491,end-cap,20.09,19.82,no,medium,college students,clothing,no,1563,31400.67,0.2699999999999996
+198283,end-cap,25.15,20.84,yes,medium,seniors,food,yes,1558,39183.7,4.309999999999999
+141547,end-cap,23.27,19.05,no,high,families,food,no,1426,33183.02,4.219999999999999
+156342,front of store,38.94,37.62,yes,high,seniors,food,yes,1466,57086.03999999999,1.3200000000000003
+186083,end-cap,28.87,28.36,no,low,seniors,food,yes,624,18014.88,0.5100000000000016
+171776,aisle,34.06,31.39,yes,medium,college students,food,no,1685,57391.100000000006,2.6700000000000017
+134429,aisle,40.01,37.93,no,high,seniors,food,no,2914,116589.14,2.0799999999999983
+172816,aisle,14.36,12.26,no,medium,seniors,food,yes,1524,21884.64,2.0999999999999996
+136272,end-cap,28.47,25.9,no,low,young adults,clothing,yes,2887,82192.89,2.5700000000000003
+193227,end-cap,40.47,39.26,yes,low,seniors,electronics,yes,1778,71955.66,1.2100000000000009
+165786,end-cap,18.03,13.4,no,high,families,electronics,yes,1278,23042.34,4.630000000000001
+174708,front of store,21.75,17.58,no,high,college students,food,yes,529,11505.75,4.170000000000002
+142257,aisle,21.7,18.91,yes,medium,seniors,clothing,yes,1180,25606.0,2.789999999999999
+126146,aisle,34.72,32.73,no,high,seniors,electronics,no,2759,95792.48,1.990000000000002
+129134,aisle,23.29,22.91,no,medium,college students,food,yes,1831,42643.99,0.379999999999999
+129898,end-cap,10.33,6.98,no,low,seniors,electronics,no,1866,19275.78,3.3499999999999996
+189692,end-cap,14.58,12.26,yes,low,college students,food,no,1553,22642.74,2.3200000000000003
+154846,end-cap,35.78,35.35,yes,low,families,electronics,no,917,32810.26,0.4299999999999997
+122307,end-cap,32.92,31.62,no,low,seniors,clothing,no,702,23109.84,1.3000000000000007
+182099,aisle,35.29,31.65,yes,low,families,food,no,1978,69803.62,3.6400000000000006
+159816,front of store,34.76,31.95,no,medium,college students,electronics,yes,1961,68164.36,2.8099999999999987
+165326,aisle,8.86,3.91,no,medium,young adults,clothing,no,1188,10525.679999999998,4.949999999999999
+185154,aisle,24.95,20.84,yes,high,young adults,food,no,996,24850.2,4.109999999999999
+141330,aisle,46.1,45.49,no,high,seniors,clothing,yes,1915,88281.5,0.6099999999999994
+158958,end-cap,5.62,2.52,no,high,young adults,clothing,no,903,5074.86,3.1
+155010,aisle,45.12,42.21,yes,medium,families,electronics,yes,729,32892.479999999996,2.9099999999999966
+135857,aisle,36.02,34.82,no,medium,young adults,electronics,yes,2045,73660.90000000001,1.2000000000000028
+147690,aisle,20.14,16.6,yes,high,families,food,no,881,17743.34,3.539999999999999
+130321,end-cap,24.71,23.07,yes,low,college students,clothing,no,2093,51718.03,1.6400000000000006
+196752,end-cap,17.3,15.83,no,medium,college students,clothing,no,2227,38527.1,1.4700000000000006
+181011,aisle,8.9,4.06,yes,high,seniors,food,yes,994,8846.6,4.840000000000001
+139967,end-cap,28.7,24.82,no,high,college students,electronics,no,2634,75595.8,3.879999999999999
+162699,end-cap,49.58,47.36,no,high,young adults,electronics,yes,2732,135452.56,2.219999999999999
+119044,aisle,36.67,32.79,no,high,college students,food,yes,1140,41803.8,3.8800000000000026
+121348,end-cap,32.06,29.0,no,high,seniors,electronics,yes,1008,32316.480000000003,3.0600000000000023
+163982,front of store,17.2,12.21,no,medium,families,clothing,no,2685,46182.0,4.989999999999998
+185774,end-cap,7.33,2.63,yes,high,college students,clothing,yes,1145,8392.85,4.7
+144651,aisle,31.45,31.4,yes,high,families,clothing,no,1791,56326.95,0.05000000000000071
+195103,aisle,41.79,41.5,yes,high,families,food,no,2849,119059.70999999999,0.28999999999999915
+123047,aisle,9.88,6.03,no,low,seniors,food,yes,2985,29491.800000000003,3.8500000000000005
+123077,front of store,16.27,13.48,no,medium,young adults,electronics,no,1603,26080.809999999998,2.789999999999999
+171860,aisle,43.18,39.47,yes,high,young adults,electronics,no,707,30528.26,3.710000000000001
+149487,aisle,25.54,20.91,no,high,families,clothing,yes,1258,32129.32,4.629999999999999
+168516,front of store,17.09,14.13,yes,medium,college students,clothing,no,2168,37051.12,2.959999999999999
+177771,end-cap,37.72,36.32,yes,low,young adults,electronics,yes,1764,66538.08,1.3999999999999986
+172015,end-cap,33.93,30.5,yes,medium,college students,electronics,yes,2622,88964.46,3.4299999999999997
+118985,aisle,49.12,48.16,no,medium,young adults,clothing,yes,694,34089.28,0.9600000000000009
+112194,aisle,14.02,10.78,yes,high,young adults,food,yes,2187,30661.739999999998,3.24
+113435,aisle,6.72,3.47,no,low,seniors,food,yes,2973,19978.559999999998,3.2499999999999996
+159182,front of store,8.55,4.44,yes,medium,young adults,electronics,no,1014,8669.7,4.11
+199233,aisle,13.99,13.2,yes,low,families,clothing,no,2222,31085.78,0.7900000000000009
+137044,aisle,46.2,45.42,no,low,seniors,electronics,yes,2534,117070.8,0.7800000000000011
+154736,front of store,9.28,7.91,yes,medium,families,food,yes,1466,13604.48,1.3699999999999992
+141434,front of store,46.6,45.81,no,low,families,clothing,yes,2870,133742.0,0.7899999999999991
+155659,aisle,47.38,42.54,yes,medium,seniors,food,yes,2654,125746.52,4.840000000000003
+168643,end-cap,33.26,32.47,no,high,seniors,food,no,2166,72041.15999999999,0.7899999999999991
+175357,end-cap,23.04,20.07,no,medium,families,clothing,yes,867,19975.68,2.969999999999999
+137530,front of store,45.45,41.12,no,medium,college students,food,no,1522,69174.90000000001,4.330000000000005
+153482,aisle,39.56,36.33,yes,low,young adults,electronics,no,2969,117453.64000000001,3.230000000000004
+112593,aisle,41.98,41.17,no,medium,young adults,food,yes,2651,111288.98,0.8099999999999952
+110241,end-cap,28.62,27.0,no,low,college students,electronics,no,2353,67342.86,1.620000000000001
+144970,front of store,44.16,40.38,no,high,families,food,yes,1461,64517.759999999995,3.779999999999994
+114822,front of store,17.98,16.78,yes,low,young adults,electronics,no,1698,30530.04,1.1999999999999993
+153452,front of store,34.49,31.14,yes,medium,college students,electronics,yes,1563,53907.87,3.3500000000000014
+144264,end-cap,14.56,11.4,yes,low,families,electronics,yes,2516,36632.96,3.16
+128749,front of store,44.71,42.78,yes,medium,seniors,food,no,1061,47437.31,1.9299999999999997
+147955,end-cap,19.47,14.6,no,medium,college students,food,yes,1898,36954.06,4.869999999999999
+142210,front of store,42.69,38.51,yes,high,families,clothing,no,1959,83629.70999999999,4.18
+110696,aisle,33.2,32.63,no,high,families,clothing,no,2630,87316.00000000001,0.5700000000000003
+111826,front of store,29.04,27.7,no,low,seniors,food,no,1926,55931.04,1.3399999999999999
+118116,end-cap,38.6,38.23,no,medium,young adults,clothing,no,1857,71680.2,0.37000000000000455
+152727,front of store,15.44,13.43,no,low,college students,clothing,yes,1383,21353.52,2.01
+198291,front of store,21.52,19.8,yes,medium,seniors,food,no,2475,53262.0,1.7199999999999989
+136227,end-cap,18.39,13.66,no,medium,college students,clothing,yes,2452,45092.28,4.73
+144031,end-cap,19.87,19.74,no,high,families,electronics,yes,1470,29208.9,0.13000000000000256
+198924,end-cap,22.87,19.29,yes,high,college students,clothing,yes,776,17747.12,3.580000000000002
+187922,front of store,17.82,17.31,no,medium,families,clothing,yes,1688,30080.16,0.5100000000000016
+168448,end-cap,44.19,40.88,yes,medium,college students,food,yes,2926,129299.93999999999,3.309999999999995
+192111,aisle,20.88,17.54,no,low,seniors,electronics,no,737,15388.56,3.34
+185466,aisle,14.83,14.72,no,high,families,electronics,no,509,7548.47,0.10999999999999943
+174277,end-cap,20.76,20.72,no,medium,young adults,food,yes,2343,48640.68,0.0400000000000027
+158519,aisle,16.41,11.61,yes,low,families,electronics,no,1986,32590.260000000002,4.800000000000001
+178624,front of store,23.22,20.6,no,medium,young adults,food,no,1821,42283.619999999995,2.6199999999999974
+123728,aisle,11.53,9.07,yes,high,seniors,electronics,no,2669,30773.57,2.459999999999999
+197954,aisle,27.06,22.66,yes,low,college students,food,no,2391,64700.46,4.399999999999999
+133328,front of store,16.63,12.63,no,medium,young adults,food,yes,1241,20637.829999999998,3.9999999999999982
+145345,end-cap,37.29,36.95,yes,high,young adults,clothing,no,869,32405.01,0.3399999999999963
+116054,front of store,43.59,39.42,no,medium,college students,electronics,yes,2931,127762.29000000001,4.170000000000002
+173141,front of store,16.63,15.78,yes,medium,families,electronics,yes,1721,28620.23,0.8499999999999996
+178180,aisle,25.99,24.45,yes,medium,college students,electronics,no,581,15100.189999999999,1.5399999999999991
+129418,end-cap,20.06,16.58,no,medium,college students,clothing,yes,707,14182.419999999998,3.4800000000000004
+188708,front of store,26.67,25.1,yes,medium,young adults,food,yes,666,17762.22,1.5700000000000003
+132833,aisle,31.79,28.82,yes,medium,college students,electronics,no,642,20409.18,2.969999999999999
+146914,front of store,41.24,36.64,no,low,seniors,electronics,no,2745,113203.8,4.600000000000001
+113624,front of store,47.84,44.86,no,medium,families,food,no,2478,118547.52,2.980000000000004
+180250,front of store,12.65,12.61,no,low,families,food,yes,2906,36760.9,0.040000000000000924
+137287,aisle,46.2,45.85,yes,high,families,food,yes,611,28228.2,0.3500000000000014
+150836,end-cap,34.97,31.08,no,high,young adults,food,yes,734,25667.98,3.8900000000000006
+151474,end-cap,29.23,26.88,yes,high,families,clothing,yes,2366,69158.18000000001,2.3500000000000014
+119803,end-cap,43.26,40.82,no,low,college students,food,yes,1580,68350.8,2.4399999999999977
+115986,front of store,10.16,6.72,yes,medium,seniors,electronics,yes,1971,20025.36,3.4400000000000004
+181896,front of store,10.82,6.8,no,low,families,food,yes,582,6297.24,4.0200000000000005
+115036,end-cap,45.34,41.26,yes,low,young adults,food,no,961,43571.740000000005,4.080000000000005
+179683,end-cap,5.58,3.41,yes,medium,families,clothing,yes,1847,10306.26,2.17
+151421,front of store,26.86,22.38,no,low,seniors,food,yes,1716,46091.76,4.48
+169867,end-cap,35.27,33.42,no,low,seniors,electronics,no,1095,38620.65,1.8500000000000014
+191946,aisle,8.84,8.82,no,medium,young adults,electronics,yes,1507,13321.88,0.019999999999999574
+165630,front of store,36.42,31.86,yes,medium,young adults,food,no,2381,86716.02,4.560000000000002
+173122,front of store,15.04,10.96,yes,high,families,electronics,yes,1299,19536.96,4.079999999999998
+137617,end-cap,46.48,43.92,no,medium,young adults,electronics,yes,931,43272.88,2.559999999999995
+181415,aisle,44.0,42.4,no,medium,families,food,yes,2179,95876.0,1.6000000000000014
+141652,end-cap,12.79,11.24,no,high,young adults,food,yes,1634,20898.859999999997,1.549999999999999
+161479,end-cap,25.99,23.59,yes,medium,seniors,food,no,1381,35892.189999999995,2.3999999999999986
+152924,end-cap,19.26,15.59,yes,high,families,clothing,no,845,16274.7,3.6700000000000017
+176510,end-cap,46.46,43.44,no,medium,seniors,food,no,2075,96404.5,3.020000000000003
+156390,end-cap,30.51,25.84,no,medium,college students,food,no,2962,90370.62000000001,4.670000000000002
+177033,aisle,5.08,3.54,no,medium,young adults,clothing,no,660,3352.8,1.54
+133753,front of store,30.11,26.52,yes,medium,young adults,electronics,yes,1418,42695.979999999996,3.59
+165841,aisle,35.69,31.05,yes,high,seniors,food,yes,2058,73450.01999999999,4.639999999999997
+183061,end-cap,33.67,30.14,no,high,college students,clothing,no,2678,90168.26000000001,3.530000000000001
+125175,front of store,43.43,41.7,no,low,seniors,electronics,no,1212,52637.159999999996,1.7299999999999969
+115464,aisle,31.14,28.57,no,medium,college students,food,no,1001,31171.14,2.5700000000000003
+117231,end-cap,47.65,46.81,no,high,young adults,food,no,818,38977.7,0.8399999999999963
+154948,end-cap,35.18,34.52,yes,medium,families,food,yes,1549,54493.82,0.6599999999999966
+197375,aisle,17.24,16.93,no,medium,seniors,electronics,no,1135,19567.399999999998,0.3099999999999987
+191131,front of store,17.29,12.32,no,low,seniors,food,yes,1833,31692.57,4.969999999999999
+131682,aisle,41.89,38.32,yes,medium,seniors,food,yes,2618,109668.02,3.5700000000000003
+196276,end-cap,32.26,32.14,no,medium,young adults,electronics,no,1046,33743.96,0.11999999999999744
+190412,aisle,7.35,4.09,yes,medium,young adults,electronics,yes,2656,19521.6,3.26
+149903,end-cap,38.17,36.06,yes,high,families,clothing,yes,2673,102028.41,2.1099999999999994
+189131,aisle,19.12,16.5,yes,low,college students,food,no,2424,46346.880000000005,2.620000000000001
+148327,front of store,31.77,30.3,yes,low,young adults,electronics,yes,1717,54549.09,1.4699999999999989
+189088,aisle,15.93,14.41,no,low,seniors,electronics,yes,2116,33707.88,1.5199999999999996
+143305,aisle,13.33,11.8,no,medium,seniors,food,yes,2880,38390.4,1.5299999999999994
+180943,front of store,17.48,13.88,no,high,college students,clothing,yes,2734,47790.32,3.5999999999999996
+152059,front of store,17.05,12.61,no,high,seniors,clothing,no,1091,18601.55,4.440000000000001
+133691,aisle,49.8,48.64,no,high,families,electronics,no,2919,145366.19999999998,1.1599999999999966
+161644,end-cap,28.16,23.86,no,high,young adults,food,yes,1145,32243.2,4.300000000000001
+132643,aisle,44.21,43.36,no,high,families,food,yes,566,25022.86,0.8500000000000014
+162317,end-cap,21.33,18.04,no,medium,young adults,food,yes,2517,53687.60999999999,3.289999999999999
+128592,front of store,11.29,10.38,no,medium,young adults,food,no,1086,12260.939999999999,0.9099999999999984
+192892,front of store,35.43,33.8,yes,high,young adults,food,yes,2623,92932.89,1.6300000000000026
+197147,front of store,44.35,44.32,no,medium,families,food,no,2205,97791.75,0.030000000000001137
+130871,front of store,13.89,10.9,no,low,college students,food,yes,707,9820.23,2.99
+184314,aisle,29.6,25.68,no,low,young adults,clothing,no,2689,79594.40000000001,3.9200000000000017
+131922,front of store,40.96,37.77,yes,low,college students,electronics,yes,1544,63242.24,3.1899999999999977
+130546,end-cap,41.34,38.01,yes,medium,families,food,yes,2776,114759.84000000001,3.3300000000000054
+167541,end-cap,20.15,15.96,yes,medium,seniors,clothing,yes,2054,41388.1,4.189999999999998
+165128,front of store,5.8,2.21,yes,medium,families,food,no,1242,7203.599999999999,3.59
+126255,front of store,23.1,22.97,yes,low,seniors,electronics,yes,1195,27604.5,0.13000000000000256
+176976,end-cap,41.72,41.7,no,low,seniors,clothing,yes,2825,117859.0,0.01999999999999602
+185599,aisle,24.04,19.71,no,low,seniors,food,no,2656,63850.24,4.329999999999998
+167273,end-cap,5.55,3.4,no,medium,families,food,no,1598,8868.9,2.15
+189296,end-cap,39.0,34.9,yes,high,families,clothing,no,1452,56628.0,4.100000000000001
+125082,end-cap,29.75,28.24,no,low,college students,electronics,no,1446,43018.5,1.5100000000000016
+116920,aisle,32.25,29.15,yes,high,seniors,clothing,no,1634,52696.5,3.1000000000000014
+111320,end-cap,44.51,43.38,no,medium,seniors,clothing,yes,1098,48871.979999999996,1.1299999999999955
+172247,end-cap,11.85,11.0,no,medium,families,clothing,no,867,10273.949999999999,0.8499999999999996
+143462,end-cap,33.11,29.2,no,high,seniors,food,no,2329,77113.19,3.91
+125637,front of store,24.67,21.83,no,low,seniors,clothing,yes,1797,44331.990000000005,2.8400000000000034
+115827,end-cap,8.9,5.4,yes,medium,families,clothing,yes,2636,23460.4,3.5
+183225,end-cap,37.72,37.14,yes,low,young adults,food,no,2659,100297.48,0.5799999999999983
+133283,aisle,30.44,28.74,yes,high,young adults,electronics,no,1937,58962.280000000006,1.7000000000000028
+164389,front of store,23.18,19.44,no,low,families,electronics,yes,946,21928.28,3.7399999999999984
+163108,aisle,9.48,8.56,no,low,seniors,clothing,yes,2015,19102.2,0.9199999999999999
+160121,aisle,45.89,42.27,yes,medium,young adults,food,yes,1826,83795.14,3.6199999999999974
+141116,front of store,13.57,13.42,yes,low,college students,clothing,yes,2175,29514.75,0.15000000000000036
+157901,end-cap,44.95,44.81,yes,high,seniors,clothing,no,2429,109183.55,0.14000000000000057
+165017,aisle,29.79,28.21,yes,medium,seniors,food,yes,2257,67236.03,1.5799999999999983
+165689,end-cap,41.01,39.78,no,medium,families,food,no,696,28542.96,1.2299999999999969
+172370,end-cap,49.94,48.76,no,high,young adults,food,no,1789,89342.65999999999,1.1799999999999997
+149539,end-cap,6.23,4.53,no,medium,seniors,electronics,no,2203,13724.69,1.7000000000000002
+149127,front of store,46.45,45.65,no,high,young adults,food,no,2727,126669.15000000001,0.8000000000000043
+199887,front of store,29.76,29.19,no,high,seniors,food,yes,1109,33003.840000000004,0.5700000000000003
+166103,end-cap,21.8,21.43,yes,low,young adults,clothing,yes,2428,52930.4,0.370000000000001
+144850,front of store,25.49,24.92,no,medium,seniors,food,no,2190,55823.1,0.5699999999999967
+139746,aisle,14.04,11.23,yes,high,young adults,food,yes,699,9813.96,2.8099999999999987
+177685,aisle,29.68,28.94,no,low,young adults,food,no,2204,65414.72,0.7399999999999984
+166728,aisle,25.92,23.68,yes,high,college students,electronics,no,542,14048.640000000001,2.240000000000002
+116065,front of store,36.88,35.72,yes,medium,seniors,food,yes,2912,107394.56000000001,1.1600000000000037
+110033,front of store,40.15,39.38,yes,low,families,electronics,yes,1998,80219.7,0.769999999999996
+164617,front of store,41.6,38.19,yes,high,seniors,electronics,no,577,24003.2,3.4100000000000037
+112314,aisle,42.47,41.94,yes,low,college students,electronics,no,1370,58183.9,0.5300000000000011
+130671,end-cap,35.95,31.23,yes,low,seniors,electronics,no,2432,87430.40000000001,4.720000000000002
+176094,end-cap,32.37,28.91,yes,high,families,electronics,no,1506,48749.219999999994,3.4599999999999973
+133227,front of store,13.73,10.09,yes,high,seniors,food,yes,1911,26238.030000000002,3.6400000000000006
+170530,aisle,34.86,33.16,yes,high,college students,food,yes,880,30676.8,1.7000000000000028
+195782,front of store,22.2,18.07,no,medium,seniors,clothing,no,2748,61005.6,4.129999999999999
+113054,end-cap,32.09,28.27,yes,medium,young adults,food,no,1705,54713.450000000004,3.820000000000004
+198313,aisle,33.95,33.43,no,medium,families,food,yes,1298,44067.100000000006,0.5200000000000031
+158628,end-cap,22.29,17.88,yes,high,seniors,clothing,yes,708,15781.32,4.41
+154165,aisle,30.33,30.04,no,high,seniors,electronics,yes,1887,57232.71,0.28999999999999915
+122473,aisle,32.2,31.52,no,medium,seniors,clothing,yes,1604,51648.8,0.6800000000000033
+150408,end-cap,31.86,27.95,yes,low,college students,food,yes,1603,51071.58,3.91
+178253,aisle,13.82,9.57,no,low,college students,clothing,yes,2609,36056.38,4.25
+182211,end-cap,6.38,5.8,no,medium,families,clothing,yes,1956,12479.28,0.5800000000000001
+157396,front of store,7.24,4.3,yes,high,college students,clothing,no,1929,13965.960000000001,2.9400000000000004
+152736,aisle,6.99,4.25,yes,low,seniors,electronics,no,570,3984.3,2.74
+168051,aisle,13.03,9.96,no,high,young adults,electronics,yes,1680,21890.399999999998,3.0699999999999985
+119648,aisle,31.46,28.87,no,medium,college students,clothing,no,2356,74119.76,2.59
+130206,aisle,37.16,32.19,yes,low,college students,electronics,no,2510,93271.59999999999,4.969999999999999
+153501,aisle,29.56,29.41,yes,medium,families,clothing,yes,1103,32604.68,0.14999999999999858
+196059,aisle,43.14,38.22,no,high,seniors,clothing,no,1692,72992.88,4.920000000000002
+153655,aisle,6.98,3.65,yes,low,young adults,clothing,no,2949,20584.02,3.3300000000000005
+191803,front of store,22.04,18.39,yes,medium,young adults,electronics,yes,1956,43110.24,3.6499999999999986
+145992,front of store,5.25,4.12,yes,low,college students,electronics,no,1519,7974.75,1.13
+118967,end-cap,7.93,4.75,yes,high,young adults,electronics,no,777,6161.61,3.1799999999999997
+125062,end-cap,45.23,43.36,no,high,college students,food,no,768,34736.64,1.8699999999999974
+165448,end-cap,46.61,41.87,yes,high,families,clothing,yes,1294,60313.34,4.740000000000002
+160827,end-cap,25.91,21.37,no,low,seniors,electronics,yes,2555,66200.05,4.539999999999999
+125378,aisle,23.53,22.66,yes,medium,young adults,electronics,no,1770,41648.1,0.870000000000001
+185547,aisle,33.88,32.2,yes,high,college students,food,yes,2933,99370.04000000001,1.6799999999999997
+191475,aisle,29.88,26.09,no,high,seniors,clothing,no,1808,54023.04,3.789999999999999
+193605,front of store,5.18,1.25,no,medium,families,electronics,yes,960,4972.799999999999,3.9299999999999997
+193179,front of store,29.65,25.39,yes,low,young adults,electronics,yes,2593,76882.45,4.259999999999998
+131808,front of store,5.49,3.93,yes,medium,young adults,electronics,no,2071,11369.79,1.56
+134615,end-cap,46.83,43.95,no,high,young adults,electronics,yes,2441,114312.03,2.8799999999999955
+142414,aisle,47.21,43.5,yes,high,young adults,clothing,no,2683,126664.43000000001,3.710000000000001
+152245,aisle,30.79,28.5,no,high,families,clothing,no,1105,34022.95,2.289999999999999
+186093,end-cap,42.17,41.97,no,high,college students,clothing,yes,1697,71562.49,0.20000000000000284
+123603,aisle,23.26,19.02,yes,high,seniors,electronics,no,2963,68919.38,4.240000000000002
+178518,front of store,38.84,37.74,no,high,families,clothing,no,2200,85448.00000000001,1.1000000000000014
+185924,front of store,5.84,1.86,yes,high,college students,electronics,no,2840,16585.6,3.9799999999999995
+161426,end-cap,44.13,43.27,no,low,seniors,food,no,1739,76742.07,0.8599999999999994
+179528,end-cap,40.14,36.2,no,low,college students,clothing,no,2999,120379.86,3.9399999999999977
+152881,front of store,27.34,22.81,yes,low,seniors,electronics,no,2971,81227.14,4.530000000000001
+158853,aisle,46.23,41.51,yes,low,college students,food,no,793,36660.39,4.719999999999999
+186138,aisle,33.23,30.17,no,low,young adults,electronics,yes,2641,87760.43,3.059999999999995
+183223,aisle,27.65,27.47,yes,high,young adults,food,yes,1171,32378.149999999998,0.17999999999999972
+113169,aisle,22.42,20.12,yes,low,seniors,clothing,no,2971,66609.82,2.3000000000000007
+138256,front of store,30.63,26.41,yes,high,college students,food,no,2188,67018.44,4.219999999999999
+115815,end-cap,29.87,25.64,yes,high,seniors,food,yes,1287,38442.69,4.23
+162665,aisle,27.54,27.44,yes,medium,young adults,electronics,yes,1946,53592.84,0.09999999999999787
+135610,end-cap,6.2,4.47,no,high,college students,electronics,yes,1989,12331.800000000001,1.7300000000000004
+164361,aisle,11.57,8.19,yes,high,families,clothing,yes,1557,18014.49,3.380000000000001
+112551,front of store,12.44,9.74,no,low,families,clothing,no,1060,13186.4,2.6999999999999993
+184922,aisle,49.7,47.27,yes,medium,college students,electronics,yes,2461,122311.70000000001,2.4299999999999997
+159197,front of store,36.55,31.66,yes,high,young adults,food,yes,2745,100329.74999999999,4.889999999999997
+162972,front of store,25.44,21.24,yes,medium,seniors,food,yes,1802,45842.880000000005,4.200000000000003
+194018,front of store,27.67,22.78,yes,high,seniors,electronics,no,1024,28334.08,4.890000000000001
+128043,aisle,11.0,6.91,yes,high,young adults,clothing,no,667,7337.0,4.09
+194508,front of store,11.03,10.21,no,medium,college students,clothing,yes,2691,29681.73,0.8199999999999985
+125010,front of store,30.97,26.4,yes,low,college students,clothing,no,533,16507.01,4.57
+157494,aisle,21.68,19.1,yes,low,seniors,electronics,yes,1410,30568.8,2.5799999999999983
+195774,end-cap,47.46,42.76,no,low,young adults,clothing,no,2905,137871.3,4.700000000000003
+133617,end-cap,34.49,32.89,no,low,seniors,clothing,yes,2881,99365.69,1.6000000000000014
+176459,front of store,39.72,36.86,no,high,families,electronics,no,657,26096.04,2.8599999999999994
+138820,aisle,5.85,2.03,yes,low,seniors,clothing,yes,2975,17403.75,3.82
+152123,front of store,26.07,25.02,yes,low,families,clothing,no,955,24896.85,1.0500000000000007
+165842,front of store,40.62,37.68,no,high,seniors,clothing,yes,633,25712.46,2.9399999999999977
+160474,front of store,10.3,6.83,yes,medium,college students,electronics,yes,1430,14729.000000000002,3.4700000000000006
+198462,end-cap,31.39,26.78,no,medium,seniors,electronics,no,1779,55842.81,4.609999999999999
+194843,aisle,5.14,3.62,yes,medium,college students,clothing,no,1324,6805.36,1.5199999999999996
+150604,aisle,25.89,22.26,yes,low,families,food,yes,2694,69747.66,3.629999999999999
+190418,end-cap,43.29,42.64,no,medium,young adults,electronics,no,1341,58051.89,0.6499999999999986
+133094,front of store,29.18,28.36,yes,medium,college students,food,yes,2643,77122.74,0.8200000000000003
+189074,end-cap,5.9,1.5,yes,medium,college students,food,yes,1353,7982.700000000001,4.4
+152783,front of store,44.43,43.93,yes,low,young adults,electronics,yes,2839,126136.77,0.5
+152215,front of store,22.4,19.66,no,low,young adults,electronics,no,954,21369.6,2.7399999999999984
+174676,aisle,16.36,15.03,yes,medium,families,clothing,yes,1509,24687.239999999998,1.33
+147821,front of store,26.3,24.58,no,low,college students,clothing,no,2420,63646.0,1.7200000000000024
+113180,aisle,47.71,46.97,yes,medium,families,electronics,no,2305,109971.55,0.740000000000002
+147684,aisle,32.67,30.34,no,medium,college students,clothing,no,914,29860.38,2.330000000000002
+110276,aisle,34.75,30.57,yes,medium,young adults,food,yes,893,31031.75,4.18
+119373,aisle,8.72,5.39,yes,low,college students,electronics,no,2757,24041.04,3.330000000000001
+130090,aisle,13.15,12.98,yes,medium,seniors,electronics,no,905,11900.75,0.16999999999999993
+168451,front of store,10.27,7.41,no,high,college students,electronics,no,1050,10783.5,2.8599999999999994
+196907,aisle,17.35,17.17,yes,medium,seniors,clothing,yes,2911,50505.850000000006,0.17999999999999972
+153708,aisle,12.05,9.59,yes,high,seniors,clothing,no,541,6519.05,2.460000000000001
+116949,end-cap,7.01,4.71,yes,low,college students,food,no,926,6491.26,2.3
+128184,aisle,26.69,22.29,yes,low,families,food,no,527,14065.630000000001,4.400000000000002
+190312,end-cap,41.92,37.02,yes,medium,seniors,electronics,yes,2252,94403.84000000001,4.899999999999999
+195839,aisle,43.89,39.28,yes,low,families,food,yes,769,33751.41,4.609999999999999
+197080,front of store,40.24,37.9,yes,medium,seniors,clothing,yes,2798,112591.52,2.3400000000000034
+126882,aisle,8.71,6.89,no,medium,college students,clothing,yes,2166,18865.86,1.8200000000000012
+121683,end-cap,14.48,11.5,no,low,college students,clothing,yes,1669,24167.12,2.9800000000000004
+114466,aisle,19.24,16.55,no,high,young adults,clothing,yes,1056,20317.44,2.6899999999999977
+133423,front of store,43.91,42.82,yes,low,seniors,food,no,768,33722.88,1.0899999999999963
+129345,aisle,39.19,35.94,no,high,families,electronics,no,1227,48086.13,3.25
+182298,aisle,5.45,4.89,no,low,young adults,clothing,no,2205,12017.25,0.5600000000000005
+115099,end-cap,44.39,43.57,no,high,families,food,no,2749,122028.11,0.8200000000000003
+123677,end-cap,23.14,18.42,no,low,college students,clothing,yes,1331,30799.34,4.719999999999999
+156228,front of store,32.1,27.11,yes,medium,young adults,food,yes,1972,63301.200000000004,4.990000000000002
+130446,end-cap,32.33,29.9,no,medium,college students,food,yes,2827,91396.90999999999,2.4299999999999997
+139743,front of store,43.33,38.66,no,high,college students,food,yes,1861,80637.12999999999,4.670000000000002
+137462,front of store,40.36,39.26,yes,low,families,electronics,yes,2714,109537.04,1.1000000000000014
+180388,aisle,49.25,44.43,no,medium,seniors,food,no,755,37183.75,4.82
+193975,front of store,43.94,43.83,yes,high,college students,clothing,yes,1414,62131.159999999996,0.10999999999999943
+126497,end-cap,34.13,34.11,no,low,young adults,electronics,no,2838,96860.94,0.020000000000003126
+165072,end-cap,37.02,33.37,no,high,seniors,food,yes,2150,79593.0,3.6500000000000057
+146446,front of store,35.56,30.73,no,high,families,electronics,no,2477,88082.12000000001,4.830000000000002
+174450,front of store,7.33,6.04,no,medium,young adults,electronics,yes,2651,19431.83,1.29
+130931,aisle,42.63,41.03,yes,high,families,electronics,no,2224,94809.12000000001,1.6000000000000014
+196440,front of store,24.41,21.22,no,high,young adults,clothing,no,2300,56143.0,3.1900000000000013
+113511,end-cap,21.22,19.82,yes,medium,families,clothing,yes,2152,45665.439999999995,1.3999999999999986
+163155,aisle,14.59,13.38,no,medium,seniors,electronics,no,2689,39232.51,1.209999999999999
+143152,front of store,14.78,10.6,yes,medium,seniors,electronics,no,2046,30239.879999999997,4.18
+178198,front of store,40.43,35.86,no,low,college students,food,no,2288,92503.84,4.57
+173253,front of store,17.43,16.25,yes,low,young adults,electronics,no,1979,34493.97,1.1799999999999997
+131726,end-cap,9.26,6.45,yes,low,college students,clothing,no,2488,23038.88,2.8099999999999996
+153970,aisle,7.44,5.4,yes,high,seniors,food,yes,1851,13771.44,2.04
+150686,front of store,44.09,40.32,no,low,college students,food,yes,2966,130770.94000000002,3.770000000000003
+175349,end-cap,37.75,34.49,no,medium,young adults,electronics,no,1322,49905.5,3.259999999999998
+127292,aisle,17.28,14.4,no,medium,seniors,electronics,no,1070,18489.600000000002,2.880000000000001
+152568,aisle,6.81,5.61,yes,low,young adults,clothing,yes,2966,20198.46,1.1999999999999993
+135414,end-cap,32.97,30.24,yes,medium,young adults,electronics,yes,1403,46256.909999999996,2.7300000000000004
+110319,front of store,6.05,1.11,no,high,families,food,no,1775,10738.75,4.9399999999999995
+174321,end-cap,42.95,42.62,yes,low,seniors,electronics,no,1662,71382.90000000001,0.3300000000000054
+143069,end-cap,17.23,13.46,no,high,college students,electronics,yes,677,11664.710000000001,3.7699999999999996
+155092,end-cap,39.66,39.05,yes,high,college students,clothing,yes,876,34742.159999999996,0.6099999999999994
+114253,front of store,35.63,31.26,no,low,college students,electronics,no,1495,53266.850000000006,4.370000000000001
+177321,end-cap,31.78,31.35,no,low,families,clothing,yes,2286,72649.08,0.4299999999999997
+130550,aisle,6.61,5.61,yes,medium,young adults,food,no,1698,11223.78,1.0
+152773,front of store,49.74,46.3,no,medium,college students,clothing,yes,2148,106841.52,3.440000000000005
+175790,aisle,21.18,18.05,yes,medium,college students,food,yes,1788,37869.84,3.129999999999999
+126957,front of store,36.95,34.3,no,high,families,clothing,yes,1809,66842.55,2.6500000000000057
+178874,aisle,34.22,31.38,no,high,seniors,clothing,yes,952,32577.44,2.84
+195207,front of store,26.14,24.73,yes,high,young adults,electronics,no,1716,44856.24,1.4100000000000001
+157384,end-cap,24.53,23.54,yes,high,seniors,clothing,no,2479,60809.87,0.990000000000002
+110980,aisle,11.77,8.42,no,medium,young adults,electronics,yes,1610,18949.7,3.3499999999999996
+144539,front of store,28.83,24.6,no,high,families,food,yes,2162,62330.46,4.229999999999997
+156638,front of store,42.21,38.19,yes,medium,seniors,food,yes,1539,64961.19,4.020000000000003
+135717,aisle,31.74,30.41,no,medium,families,clothing,no,743,23582.82,1.3299999999999983
+152395,end-cap,13.29,10.2,no,high,college students,electronics,no,1802,23948.579999999998,3.09
+160346,aisle,45.45,42.33,no,high,families,electronics,yes,1416,64357.200000000004,3.1200000000000045
+142963,end-cap,30.48,27.39,no,medium,college students,clothing,yes,1087,33131.76,3.09
+155793,end-cap,17.79,17.61,no,medium,young adults,electronics,yes,2225,39582.75,0.17999999999999972
+124413,front of store,30.06,29.48,no,high,families,food,yes,1232,37033.92,0.5799999999999983
+160541,end-cap,24.79,21.25,no,high,young adults,electronics,no,1311,32499.69,3.539999999999999
+114964,front of store,16.47,13.41,yes,medium,seniors,electronics,no,570,9387.9,3.0599999999999987
+199673,end-cap,8.2,4.13,no,high,seniors,food,yes,2488,20401.6,4.069999999999999
+141355,end-cap,34.36,33.24,yes,high,families,clothing,no,1950,67002.0,1.1199999999999974
+144362,aisle,22.69,20.5,yes,high,seniors,clothing,yes,2270,51506.3,2.1900000000000013
+144721,front of store,25.51,22.38,no,high,families,electronics,no,2917,74412.67,3.1300000000000026
+139337,end-cap,42.31,41.34,yes,medium,young adults,clothing,no,1878,79458.18000000001,0.9699999999999989
+167218,end-cap,35.35,34.4,no,low,college students,clothing,no,2621,92652.35,0.9500000000000028
+119583,front of store,6.32,5.2,no,high,young adults,electronics,yes,1332,8418.24,1.12
+195223,front of store,23.16,22.01,no,medium,college students,clothing,yes,2526,58502.16,1.1499999999999986
+175927,end-cap,45.95,41.25,no,high,seniors,clothing,no,2014,92543.3,4.700000000000003
+130120,end-cap,42.89,38.76,no,low,families,electronics,no,2963,127083.07,4.130000000000003
+141261,front of store,49.98,47.6,yes,low,young adults,clothing,no,641,32037.179999999997,2.3799999999999955
+186584,aisle,33.76,33.19,yes,medium,college students,electronics,no,1370,46251.2,0.5700000000000003
+120793,front of store,29.98,28.14,no,medium,seniors,electronics,yes,2204,66075.92,1.8399999999999999
+155385,end-cap,38.8,35.71,no,medium,young adults,electronics,no,1973,76552.4,3.0899999999999963
+151124,end-cap,8.34,7.22,no,high,families,clothing,no,2895,24144.3,1.12
+179168,front of store,47.77,44.38,no,low,families,electronics,yes,1389,66352.53,3.3900000000000006
+162419,aisle,27.09,25.32,yes,high,seniors,electronics,yes,617,16714.53,1.7699999999999996
+113067,front of store,26.16,24.53,no,high,families,clothing,no,1062,27781.920000000002,1.629999999999999
+178104,aisle,15.32,13.21,no,high,seniors,electronics,yes,2827,43309.64,2.1099999999999994
+138903,aisle,39.87,39.54,no,low,families,clothing,no,1981,78982.47,0.3299999999999983
+116993,front of store,31.69,31.54,no,high,college students,clothing,no,2938,93105.22,0.15000000000000213
+111935,aisle,16.27,15.54,no,high,college students,clothing,no,1831,29790.37,0.7300000000000004
+115210,front of store,28.08,25.81,no,high,seniors,electronics,yes,2068,58069.439999999995,2.2699999999999996
+173296,end-cap,11.95,11.03,no,medium,college students,clothing,yes,1009,12057.55,0.9199999999999999
+110709,aisle,18.48,17.43,no,medium,college students,food,yes,2450,45276.0,1.0500000000000007
+134034,front of store,31.72,28.87,yes,high,young adults,clothing,yes,2571,81552.12,2.849999999999998
+165430,aisle,29.45,26.6,yes,high,college students,food,no,2815,82901.75,2.849999999999998
+192396,front of store,7.32,7.08,no,low,families,food,yes,1039,7605.4800000000005,0.2400000000000002
+115581,aisle,44.47,40.07,no,low,young adults,electronics,yes,2455,109173.84999999999,4.399999999999999
+149662,end-cap,13.33,11.68,yes,low,college students,electronics,no,1376,18342.08,1.6500000000000004
+169368,front of store,24.1,19.13,yes,high,families,food,no,1955,47115.5,4.970000000000002
+173174,end-cap,12.05,9.14,no,high,seniors,clothing,no,636,7663.8,2.91
+153411,front of store,25.9,25.7,yes,low,families,clothing,yes,869,22507.1,0.1999999999999993
+135465,aisle,12.65,11.97,yes,high,college students,food,no,1015,12839.75,0.6799999999999997
+151005,end-cap,17.79,12.86,no,low,seniors,food,no,1276,22700.039999999997,4.93
+172517,aisle,23.94,19.7,no,medium,seniors,electronics,yes,808,19343.52,4.240000000000002
+113368,end-cap,17.48,12.55,no,high,young adults,clothing,yes,2682,46881.36,4.93
+112801,front of store,41.6,38.31,yes,high,young adults,food,yes,1363,56700.8,3.289999999999999
+163286,aisle,49.64,48.84,no,low,young adults,food,no,2184,108413.76,0.7999999999999972
+175963,end-cap,15.09,12.43,yes,high,college students,clothing,yes,1417,21382.53,2.66
+119258,end-cap,41.97,40.32,no,medium,families,clothing,no,1415,59387.549999999996,1.6499999999999986
+131817,end-cap,33.48,28.94,no,high,families,electronics,yes,2889,96723.71999999999,4.539999999999996
+193731,aisle,49.55,49.1,yes,medium,families,clothing,no,1592,78883.59999999999,0.44999999999999574
+175087,end-cap,24.64,23.91,no,high,families,food,no,2874,70815.36,0.7300000000000004
+129041,end-cap,40.28,38.37,yes,low,seniors,food,no,2025,81567.0,1.9100000000000037
+194723,end-cap,10.09,5.6,no,low,families,clothing,yes,1846,18626.14,4.49
+178350,end-cap,36.71,34.55,no,high,families,food,yes,1964,72098.44,2.1600000000000037
+137798,front of store,18.91,17.76,no,high,young adults,clothing,no,1408,26625.28,1.1499999999999986
+158893,front of store,35.65,31.08,yes,low,seniors,clothing,yes,1272,45346.799999999996,4.57
+149201,aisle,46.97,46.34,yes,medium,families,electronics,yes,521,24471.37,0.6299999999999955
+169631,aisle,17.05,14.8,no,high,seniors,electronics,no,2100,35805.0,2.25
+168106,front of store,18.93,18.41,no,low,college students,food,no,1134,21466.62,0.5199999999999996
+177650,aisle,43.59,39.89,yes,high,seniors,electronics,no,2241,97685.19,3.700000000000003
+154029,end-cap,34.88,34.6,yes,low,young adults,food,yes,2954,103035.52,0.28000000000000114
+130738,front of store,14.18,13.19,yes,medium,seniors,clothing,no,1085,15385.3,0.9900000000000002
+140879,aisle,45.5,43.19,yes,high,young adults,food,no,1495,68022.5,2.3100000000000023
+151900,aisle,47.99,47.59,yes,medium,college students,food,yes,1560,74864.40000000001,0.3999999999999986
+187604,end-cap,49.21,48.05,no,medium,college students,food,yes,782,38482.22,1.1600000000000037
+174627,front of store,38.69,37.01,no,high,college students,clothing,no,1296,50142.24,1.6799999999999997
+133654,end-cap,42.98,41.61,yes,medium,young adults,clothing,no,2333,100272.34,1.3699999999999974
+180951,front of store,25.2,22.09,yes,high,seniors,clothing,yes,2056,51811.2,3.1099999999999994
+110578,end-cap,22.22,21.56,no,high,families,food,no,950,21109.0,0.6600000000000001
+192711,aisle,36.4,34.38,yes,high,seniors,electronics,yes,2079,75675.59999999999,2.019999999999996
+154096,aisle,43.32,39.63,yes,low,families,food,no,2144,92878.08,3.6899999999999977
+124265,end-cap,24.39,20.92,yes,high,families,clothing,no,2715,66218.85,3.469999999999999
+120576,end-cap,16.48,14.74,no,high,college students,food,yes,1357,22363.36,1.7400000000000002
+166314,end-cap,38.36,35.33,no,medium,seniors,food,yes,2896,111090.56,3.030000000000001
+138145,front of store,25.94,24.83,yes,medium,families,clothing,no,2523,65446.62,1.110000000000003
+192789,end-cap,15.65,14.23,no,medium,college students,clothing,no,2480,38812.0,1.42
+150907,front of store,45.68,45.58,no,high,seniors,electronics,no,1323,60434.64,0.10000000000000142
+182011,end-cap,24.17,19.74,yes,medium,seniors,clothing,no,588,14211.960000000001,4.430000000000003
+167179,front of store,24.06,23.01,yes,low,college students,clothing,no,2225,53533.5,1.0499999999999972
+116390,end-cap,30.07,29.26,yes,high,college students,electronics,yes,2834,85218.38,0.8099999999999987
+119757,end-cap,48.21,43.42,no,low,college students,clothing,no,1907,91936.47,4.789999999999999
+139269,aisle,18.24,16.68,no,low,families,electronics,yes,821,14975.039999999999,1.5599999999999987
+135624,front of store,6.24,2.06,no,high,young adults,food,no,1744,10882.56,4.18
+171860,aisle,44.32,39.33,yes,low,college students,clothing,no,2398,106279.36,4.990000000000002
+185187,front of store,38.92,38.34,yes,medium,college students,clothing,no,1358,52853.36,0.5799999999999983
+163977,end-cap,37.28,36.19,no,low,seniors,food,no,2872,107068.16,1.0900000000000034
+128784,aisle,32.51,31.52,yes,medium,college students,electronics,no,801,26040.51,0.9899999999999984
+161283,end-cap,46.68,44.47,no,medium,college students,electronics,yes,1532,71513.76,2.210000000000001
+166588,end-cap,7.09,5.73,yes,high,seniors,clothing,no,1376,9755.84,1.3599999999999994
+111384,aisle,23.22,21.78,no,low,young adults,clothing,no,1859,43165.979999999996,1.4399999999999977
+144945,end-cap,28.77,27.43,no,medium,families,food,yes,1908,54893.159999999996,1.3399999999999999
+145405,aisle,33.95,29.32,no,medium,families,food,yes,1403,47631.850000000006,4.630000000000003
+140480,aisle,33.32,32.96,yes,medium,young adults,food,no,2599,86598.68000000001,0.35999999999999943
+117707,aisle,27.33,25.41,no,low,college students,food,no,511,13965.63,1.9199999999999982
+182158,front of store,24.22,23.04,no,medium,college students,clothing,yes,2689,65127.579999999994,1.1799999999999997
+151032,front of store,9.78,4.93,no,high,young adults,clothing,yes,2054,20088.12,4.85
+138160,aisle,19.57,18.88,yes,medium,college students,food,no,839,16419.23,0.6900000000000013
+132647,front of store,15.85,14.41,yes,high,college students,food,yes,2831,44871.35,1.4399999999999995
+154713,aisle,47.72,44.03,yes,medium,families,clothing,yes,1647,78594.84,3.6899999999999977
+157629,front of store,18.93,17.81,no,high,families,food,no,1277,24173.61,1.120000000000001
+165679,front of store,15.38,12.41,no,low,families,clothing,no,1062,16333.560000000001,2.9700000000000006
+127978,front of store,6.39,5.77,yes,low,seniors,food,no,1677,10716.029999999999,0.6200000000000001
+191923,aisle,47.6,45.1,no,high,families,clothing,no,1459,69448.40000000001,2.5
+179488,front of store,41.53,37.25,yes,low,young adults,food,yes,1479,61422.87,4.280000000000001
+196100,aisle,24.3,23.86,yes,medium,families,food,no,944,22939.2,0.4400000000000013
+114396,front of store,37.84,37.37,yes,medium,families,food,no,1433,54224.72000000001,0.47000000000000597
+126954,aisle,41.39,39.6,no,medium,seniors,electronics,yes,1640,67879.6,1.7899999999999991
+161127,end-cap,11.47,7.46,no,medium,seniors,food,no,954,10942.380000000001,4.010000000000001
+192871,front of store,6.39,3.99,no,low,college students,clothing,yes,1654,10569.06,2.3999999999999995
+196774,front of store,40.99,37.67,no,low,college students,electronics,yes,1303,53409.97,3.3200000000000003
+179265,front of store,40.07,39.77,yes,medium,seniors,electronics,no,921,36904.47,0.29999999999999716
+127161,end-cap,47.2,44.38,yes,medium,seniors,food,yes,2388,112713.6,2.8200000000000003
+167455,aisle,44.42,43.37,no,medium,families,food,no,2494,110783.48000000001,1.0500000000000043
+126083,end-cap,9.29,5.86,no,high,families,electronics,no,1079,10023.91,3.429999999999999
+191442,aisle,38.26,38.26,yes,high,seniors,clothing,yes,604,23109.039999999997,0.0
+157324,front of store,36.45,32.2,no,high,seniors,food,yes,1482,54018.9,4.25
+196863,front of store,42.68,42.34,no,medium,college students,electronics,yes,2751,117412.68,0.3399999999999963
+125834,end-cap,37.76,36.64,yes,medium,families,food,yes,2700,101952.0,1.1199999999999974
+160648,end-cap,47.47,45.66,no,low,young adults,electronics,no,1824,86585.28,1.8100000000000023
+177124,front of store,30.28,27.84,no,low,seniors,food,no,1339,40544.92,2.4400000000000013
+130113,end-cap,15.48,10.95,yes,low,college students,clothing,no,726,11238.48,4.530000000000001
+149104,aisle,30.51,26.82,no,high,seniors,electronics,yes,1811,55253.61,3.6900000000000013
+131351,aisle,13.38,11.17,no,high,college students,electronics,yes,1031,13794.78,2.210000000000001
+163127,end-cap,40.39,36.59,no,medium,young adults,clothing,yes,1599,64583.61,3.799999999999997
+145944,end-cap,36.3,33.01,yes,medium,families,food,no,2219,80549.7,3.289999999999999
+178288,aisle,42.19,38.49,yes,medium,young adults,clothing,no,858,36199.02,3.6999999999999957
+120721,front of store,19.15,14.29,yes,low,young adults,electronics,yes,1817,34795.549999999996,4.859999999999999
+198257,front of store,9.07,4.34,yes,medium,seniors,food,yes,647,5868.29,4.73
+144938,end-cap,6.71,4.23,no,high,young adults,food,yes,2042,13701.82,2.4799999999999995
+180786,aisle,9.99,6.1,no,high,young adults,electronics,no,2581,25784.190000000002,3.8900000000000006
+174984,front of store,16.46,15.04,no,low,college students,clothing,no,2704,44507.840000000004,1.4200000000000017
+164338,front of store,21.67,19.04,yes,low,young adults,clothing,yes,2614,56645.380000000005,2.6300000000000026
+194730,front of store,14.09,10.27,no,medium,families,electronics,no,1531,21571.79,3.8200000000000003
+184387,front of store,22.48,20.5,no,high,seniors,food,yes,1862,41857.76,1.9800000000000004
+122405,front of store,17.06,12.21,no,high,families,electronics,no,1312,22382.719999999998,4.849999999999998
+155287,end-cap,20.21,19.05,yes,low,seniors,clothing,yes,1830,36984.3,1.1600000000000001
+135629,end-cap,19.14,14.98,yes,low,seniors,electronics,yes,926,17723.64,4.16
+161695,aisle,43.33,39.35,no,medium,seniors,clothing,no,2463,106721.79,3.979999999999997
+188585,aisle,24.47,20.48,yes,low,young adults,electronics,no,2376,58140.719999999994,3.9899999999999984
+199050,end-cap,9.47,6.1,no,medium,college students,electronics,no,1352,12803.44,3.370000000000001
+126957,front of store,16.68,16.44,no,high,seniors,food,no,1941,32375.88,0.23999999999999844
+140298,aisle,28.83,25.5,no,low,seniors,clothing,yes,1039,29954.37,3.3299999999999983
+143161,end-cap,35.54,33.58,yes,low,seniors,clothing,no,946,33620.84,1.9600000000000009
+126549,front of store,42.47,40.12,yes,high,seniors,clothing,no,1648,69990.56,2.3500000000000014
+199013,aisle,49.97,45.21,no,medium,college students,clothing,no,2894,144613.18,4.759999999999998
+120994,end-cap,11.43,8.77,no,low,college students,electronics,no,2633,30095.19,2.66
+123549,end-cap,10.54,5.99,no,low,families,food,no,637,6713.98,4.549999999999999
+191501,front of store,40.75,37.55,no,low,families,food,no,2794,113855.5,3.200000000000003
+137441,end-cap,38.57,34.84,no,low,seniors,electronics,yes,1425,54962.25,3.729999999999997
+174639,aisle,32.42,27.95,no,low,college students,food,yes,1865,60463.3,4.470000000000002
+126334,end-cap,43.81,39.96,no,high,college students,clothing,no,718,31455.58,3.8500000000000014
+158294,aisle,5.15,5.01,no,medium,seniors,food,no,1252,6447.8,0.14000000000000057
+171653,end-cap,36.87,34.47,no,medium,young adults,food,yes,2951,108803.37,2.3999999999999986
+113784,front of store,27.14,23.32,no,low,college students,clothing,no,920,24968.8,3.8200000000000003
+195374,front of store,46.16,42.84,yes,low,college students,electronics,no,1844,85119.04,3.319999999999993
+171712,end-cap,44.95,43.96,no,medium,college students,clothing,yes,835,37533.25,0.990000000000002
+148331,front of store,44.38,40.68,yes,low,young adults,clothing,yes,1322,58670.36,3.700000000000003
+123478,aisle,25.59,24.27,no,low,seniors,electronics,yes,700,17913.0,1.3200000000000003
+164043,aisle,11.02,10.23,no,high,young adults,food,no,2075,22866.5,0.7899999999999991
+158938,front of store,39.31,37.18,yes,high,seniors,clothing,no,703,27634.93,2.1300000000000026
+118260,end-cap,20.5,17.08,no,medium,families,food,yes,2653,54386.5,3.4200000000000017
+168970,end-cap,13.49,10.1,no,medium,seniors,clothing,no,2819,38028.31,3.3900000000000006
+160301,front of store,15.5,13.36,no,medium,college students,food,no,1056,16368.0,2.1400000000000006
+134598,aisle,5.66,1.62,yes,low,families,electronics,no,1475,8348.5,4.04
+140548,aisle,9.71,5.57,yes,high,college students,clothing,no,2971,28848.410000000003,4.140000000000001
+119282,front of store,17.05,16.01,no,high,families,electronics,no,2136,36418.8,1.0399999999999991
+155744,aisle,33.53,28.67,yes,medium,families,clothing,yes,2663,89290.39,4.859999999999999
+188805,aisle,11.42,8.54,yes,high,families,clothing,no,1324,15120.08,2.880000000000001
+194198,aisle,44.88,41.36,yes,high,college students,food,yes,2363,106051.44,3.520000000000003
+158917,front of store,15.84,11.45,yes,high,seniors,clothing,yes,2042,32345.28,4.390000000000001
+119182,front of store,16.46,13.91,yes,low,families,food,no,2578,42433.880000000005,2.5500000000000007
+177843,end-cap,22.29,21.55,yes,low,families,clothing,no,1898,42306.42,0.7399999999999984
+175135,front of store,30.9,29.78,no,high,seniors,food,no,1732,53518.799999999996,1.1199999999999974
+162886,front of store,20.54,17.99,no,medium,college students,clothing,yes,2192,45023.68,2.5500000000000007
+162663,aisle,34.96,34.77,no,high,young adults,electronics,no,2231,77995.76,0.18999999999999773
+148513,front of store,28.81,24.72,yes,high,seniors,food,yes,980,28233.8,4.09
+127550,front of store,45.28,42.69,yes,low,families,clothing,yes,2605,117954.40000000001,2.5900000000000034
+123557,front of store,15.14,11.49,no,low,seniors,food,yes,1035,15669.900000000001,3.6500000000000004
+140118,aisle,41.12,39.94,no,medium,college students,electronics,yes,2063,84830.56,1.1799999999999997
+172912,front of store,40.01,38.86,yes,high,college students,clothing,no,2551,102065.51,1.1499999999999986
+155610,front of store,5.11,1.28,no,low,college students,electronics,yes,2807,14343.77,3.83
+160544,end-cap,45.47,41.47,yes,medium,college students,food,no,2687,122177.89,4.0
+177721,end-cap,25.2,20.82,yes,medium,seniors,electronics,no,2731,68821.2,4.379999999999999
+199735,aisle,41.0,40.35,yes,low,seniors,electronics,no,1176,48216.0,0.6499999999999986
+164553,end-cap,6.66,3.09,no,high,families,clothing,yes,1826,12161.16,3.5700000000000003
+160829,front of store,28.09,26.0,no,low,young adults,clothing,yes,1985,55758.65,2.09
+189316,front of store,33.94,32.88,no,medium,college students,clothing,yes,2262,76772.28,1.0599999999999952
+110815,aisle,42.48,42.36,no,high,young adults,electronics,no,1672,71026.56,0.11999999999999744
+173823,front of store,46.95,46.69,yes,high,young adults,electronics,yes,2732,128267.40000000001,0.2600000000000051
+189791,end-cap,15.37,13.64,no,high,college students,food,yes,1360,20903.2,1.7299999999999986
+180074,end-cap,18.25,14.38,yes,low,families,clothing,yes,2608,47596.0,3.869999999999999
+131689,front of store,42.43,41.76,no,low,families,food,yes,1833,77774.19,0.6700000000000017
+145573,end-cap,43.83,42.62,no,medium,families,electronics,yes,1071,46941.93,1.2100000000000009
+196508,end-cap,47.98,44.05,yes,high,families,clothing,yes,1698,81470.04,3.9299999999999997
+159831,aisle,36.29,33.69,no,medium,college students,electronics,no,763,27689.27,2.6000000000000014
+154409,aisle,19.87,19.65,no,medium,college students,food,yes,1506,29924.22,0.22000000000000242
+151330,front of store,42.94,39.98,no,medium,college students,food,no,2353,101037.81999999999,2.960000000000001
+178721,end-cap,34.32,30.13,no,low,young adults,electronics,no,628,21552.96,4.190000000000001
+190370,end-cap,36.86,35.27,yes,low,families,clothing,yes,554,20420.44,1.5899999999999963
+171778,end-cap,34.07,30.82,no,high,families,clothing,yes,2095,71376.65,3.25
+181634,front of store,23.99,22.54,no,high,young adults,clothing,yes,2774,66548.26,1.4499999999999993
+146294,front of store,11.38,8.6,no,high,young adults,food,yes,2777,31602.260000000002,2.780000000000001
+113594,front of store,24.18,21.23,no,high,seniors,electronics,no,2376,57451.68,2.9499999999999993
+153294,end-cap,30.37,26.67,yes,low,seniors,electronics,no,1279,38843.23,3.6999999999999993
+191154,end-cap,38.81,36.77,no,medium,seniors,clothing,no,836,32445.160000000003,2.039999999999999
+154870,front of store,8.52,5.11,yes,low,young adults,clothing,yes,1793,15276.359999999999,3.4099999999999993
+145558,end-cap,10.78,8.58,yes,low,families,clothing,no,2728,29407.839999999997,2.1999999999999993
+135809,front of store,18.9,18.48,yes,low,young adults,clothing,no,1780,33642.0,0.41999999999999815
+156148,aisle,36.26,34.24,yes,high,young adults,electronics,yes,1508,54680.079999999994,2.019999999999996
+171191,front of store,46.72,45.02,no,high,families,food,yes,2267,105914.23999999999,1.6999999999999957
+115810,front of store,7.28,6.56,no,medium,young adults,clothing,yes,1953,14217.84,0.7200000000000006
+115533,end-cap,41.85,37.04,yes,high,college students,food,yes,1971,82486.35,4.810000000000002
+191827,end-cap,28.57,26.47,yes,high,families,food,no,1178,33655.46,2.1000000000000014
+115156,front of store,10.66,6.87,yes,high,college students,electronics,yes,2800,29848.0,3.79
+148849,end-cap,11.75,9.84,yes,high,young adults,electronics,yes,1307,15357.25,1.9100000000000001
+121239,aisle,49.77,49.66,yes,low,seniors,clothing,yes,1829,91029.33,0.11000000000000654
+147878,end-cap,38.9,35.38,no,high,families,electronics,no,1065,41428.5,3.519999999999996
+163043,end-cap,15.86,11.57,no,low,seniors,electronics,no,1075,17049.5,4.289999999999999
+198302,aisle,45.15,42.0,no,high,seniors,clothing,no,1388,62668.2,3.1499999999999986
+191418,aisle,46.06,43.67,no,low,seniors,electronics,no,2244,103358.64,2.3900000000000006
+175324,end-cap,37.69,36.14,yes,low,families,electronics,yes,1308,49298.52,1.5499999999999972
+168949,front of store,47.81,46.2,yes,medium,seniors,electronics,no,1033,49387.73,1.6099999999999994
+132443,aisle,36.15,31.58,yes,low,college students,clothing,no,1924,69552.59999999999,4.57
+142665,end-cap,28.97,24.67,yes,medium,college students,clothing,yes,1705,49393.85,4.299999999999997
+171112,aisle,40.65,36.48,no,high,college students,food,yes,635,25812.75,4.170000000000002
+164994,end-cap,13.6,8.67,yes,low,families,food,no,2189,29770.399999999998,4.93
+197700,aisle,5.76,3.84,no,medium,families,electronics,no,2716,15644.16,1.92
+162699,front of store,9.26,5.65,no,medium,seniors,food,yes,1474,13649.24,3.6099999999999994
+166102,front of store,48.35,47.1,yes,medium,college students,food,no,1001,48398.35,1.25
+125196,front of store,33.86,31.9,no,high,young adults,clothing,yes,2479,83938.94,1.9600000000000009
+190769,aisle,40.56,38.99,no,high,families,clothing,yes,955,38734.8,1.5700000000000003
+192908,front of store,45.61,43.04,no,low,seniors,food,yes,1410,64310.1,2.5700000000000003
+190000,front of store,11.29,9.86,yes,high,families,electronics,no,1133,12791.57,1.4299999999999997
+117812,end-cap,13.49,11.04,no,high,seniors,electronics,no,2984,40254.16,2.450000000000001
+158258,aisle,41.44,39.26,no,low,families,electronics,yes,2622,108655.68,2.1799999999999997
+136575,aisle,18.65,15.73,yes,high,young adults,food,yes,2570,47930.49999999999,2.919999999999998
+152880,end-cap,25.36,24.79,no,low,young adults,clothing,yes,617,15647.119999999999,0.5700000000000003
+112839,front of store,49.98,49.85,no,high,young adults,clothing,no,2255,112704.9,0.12999999999999545
+190584,front of store,37.43,33.22,yes,low,college students,clothing,no,637,23842.91,4.210000000000001
+171598,aisle,30.93,30.15,yes,medium,college students,electronics,no,1613,49890.09,0.7800000000000011
+169545,front of store,20.4,15.7,yes,medium,families,electronics,no,653,13321.199999999999,4.699999999999999
+132704,aisle,25.47,22.73,yes,high,families,electronics,no,2074,52824.78,2.7399999999999984
+168639,front of store,38.68,35.89,yes,high,college students,clothing,yes,2068,79990.24,2.789999999999999
+163062,end-cap,37.79,34.04,yes,high,college students,food,yes,2360,89184.4,3.75
+186783,front of store,8.52,4.55,no,low,young adults,food,yes,1667,14202.84,3.9699999999999998
+130656,end-cap,30.51,27.48,yes,medium,families,electronics,no,588,17939.88,3.030000000000001
+111930,front of store,11.04,9.15,no,high,seniors,electronics,no,1380,15235.199999999999,1.8899999999999988
+115305,end-cap,36.36,31.41,no,high,seniors,electronics,yes,676,24579.36,4.949999999999999
+167689,front of store,11.48,10.41,no,high,young adults,electronics,yes,2969,34084.12,1.0700000000000003
+110451,front of store,10.77,9.98,yes,medium,families,food,no,578,6225.0599999999995,0.7899999999999991
+189534,end-cap,5.73,3.94,yes,medium,young adults,electronics,no,2886,16536.780000000002,1.7900000000000005
+153881,front of store,33.16,28.8,yes,medium,families,clothing,no,1376,45628.159999999996,4.359999999999996
+112314,end-cap,25.65,25.2,yes,medium,families,food,no,519,13312.349999999999,0.4499999999999993
+134948,aisle,10.28,7.76,yes,medium,young adults,food,no,600,6168.0,2.5199999999999996
+152468,aisle,8.31,5.35,yes,high,families,food,no,1728,14359.68,2.960000000000001
+148553,front of store,27.54,24.56,yes,high,families,food,no,1585,43650.9,2.9800000000000004
+121643,aisle,5.17,0.72,no,high,college students,food,yes,1522,7868.74,4.45
+167351,aisle,33.05,31.73,no,low,college students,electronics,no,961,31761.049999999996,1.3199999999999967
+199976,front of store,19.66,18.89,no,high,college students,clothing,no,1641,32262.06,0.7699999999999996
+172344,end-cap,15.42,13.77,yes,medium,families,clothing,yes,2030,31302.6,1.6500000000000004
+157499,aisle,19.49,16.81,no,low,seniors,electronics,no,1973,38453.77,2.6799999999999997
+173866,aisle,47.92,44.15,yes,medium,young adults,food,yes,2246,107628.32,3.770000000000003
+134989,front of store,14.85,12.52,yes,high,families,clothing,yes,2571,38179.35,2.33
+162691,front of store,36.77,35.21,yes,high,families,clothing,no,690,25371.300000000003,1.5600000000000023
+187196,end-cap,37.13,35.06,no,low,college students,food,yes,2876,106785.88,2.0700000000000003
+121378,end-cap,9.26,9.07,yes,medium,seniors,electronics,yes,2168,20075.68,0.1899999999999995
+142482,end-cap,27.59,26.89,no,high,young adults,electronics,no,1362,37577.58,0.6999999999999993
+176723,aisle,47.41,45.53,no,low,families,electronics,yes,1524,72252.84,1.8799999999999955
+132654,front of store,36.75,36.09,no,low,seniors,food,yes,1875,68906.25,0.6599999999999966
+169453,aisle,12.09,10.47,no,medium,seniors,electronics,yes,2177,26319.93,1.6199999999999992
+165328,end-cap,37.37,32.7,yes,medium,families,food,no,719,26869.03,4.669999999999995
+189998,aisle,27.39,27.22,yes,high,young adults,electronics,no,2206,60422.340000000004,0.1700000000000017
+171481,aisle,37.53,35.46,no,high,families,clothing,yes,2212,83016.36,2.0700000000000003
+166674,end-cap,11.36,6.76,yes,low,seniors,clothing,yes,638,7247.679999999999,4.6
+110674,end-cap,36.21,33.76,yes,low,seniors,electronics,no,2726,98708.46,2.450000000000003
+110417,end-cap,43.02,42.63,yes,low,young adults,clothing,yes,2352,101183.04000000001,0.39000000000000057
+166698,end-cap,47.18,46.66,no,low,young adults,clothing,no,2528,119271.04,0.5200000000000031
+179623,front of store,5.08,3.34,yes,low,college students,food,yes,2284,11602.72,1.7400000000000002
+196326,aisle,32.98,28.94,yes,medium,seniors,food,yes,2015,66454.7,4.039999999999996
+175453,end-cap,12.65,9.75,no,low,seniors,electronics,yes,1603,20277.95,2.9000000000000004
+153183,end-cap,38.1,34.7,no,medium,families,clothing,no,822,31318.2,3.3999999999999986
+195160,front of store,21.92,18.0,yes,low,young adults,food,no,1792,39280.64,3.9200000000000017
+116201,aisle,30.31,29.05,no,low,young adults,clothing,no,2761,83685.91,1.259999999999998
+188566,aisle,49.34,46.31,yes,medium,families,electronics,no,2071,102183.14000000001,3.030000000000001
+151362,front of store,22.05,19.73,no,medium,families,food,no,1112,24519.600000000002,2.3200000000000003
+189612,end-cap,49.94,48.09,yes,high,families,food,yes,809,40401.46,1.8499999999999943
+144433,front of store,41.17,37.58,no,low,seniors,electronics,no,1412,58132.04,3.5900000000000034
+157449,aisle,33.65,32.64,no,low,college students,food,no,951,32001.149999999998,1.009999999999998
+165623,end-cap,17.03,15.52,no,high,college students,electronics,yes,2379,40514.37,1.5100000000000016
+137925,end-cap,45.44,41.87,no,medium,young adults,electronics,no,2336,106147.84,3.5700000000000003
+115111,aisle,16.88,13.12,no,medium,families,clothing,no,1592,26872.96,3.76
+171502,front of store,10.49,8.45,yes,medium,seniors,food,yes,635,6661.150000000001,2.040000000000001
+193698,end-cap,7.95,3.06,no,medium,young adults,food,no,1029,8180.55,4.890000000000001
+151572,front of store,29.0,26.1,yes,low,college students,food,yes,1602,46458.0,2.8999999999999986
+158886,end-cap,33.24,29.24,yes,medium,seniors,electronics,yes,664,22071.36,4.0000000000000036
+111012,front of store,39.23,37.69,no,medium,college students,food,no,725,28441.749999999996,1.5399999999999991
+143251,aisle,9.89,8.88,no,low,seniors,electronics,no,2354,23281.06,1.0099999999999998
+178611,aisle,24.97,22.33,yes,medium,seniors,food,no,992,24770.239999999998,2.6400000000000006
+114824,front of store,43.12,40.43,yes,high,families,clothing,yes,852,36738.24,2.6899999999999977
+168713,end-cap,29.88,26.59,yes,high,young adults,food,yes,2112,63106.56,3.289999999999999
+140868,front of store,19.11,16.4,no,low,families,food,no,675,12899.25,2.710000000000001
+146780,end-cap,49.36,45.93,no,low,college students,electronics,no,2080,102668.8,3.4299999999999997
+172105,aisle,9.85,8.59,yes,high,families,electronics,no,2299,22645.149999999998,1.2599999999999998
+111455,end-cap,27.05,26.24,yes,high,college students,electronics,yes,2229,60294.450000000004,0.8100000000000023
+129927,end-cap,6.75,4.72,no,high,seniors,clothing,no,647,4367.25,2.0300000000000002
+139494,front of store,32.22,31.89,no,medium,families,food,yes,1140,36730.799999999996,0.3299999999999983
+163982,end-cap,20.9,19.2,no,low,families,food,yes,779,16281.099999999999,1.6999999999999993
+112511,end-cap,47.2,44.69,yes,medium,young adults,clothing,yes,2587,122106.40000000001,2.510000000000005
+146982,end-cap,29.92,29.86,yes,medium,young adults,clothing,yes,972,29082.24,0.060000000000002274
+171517,front of store,18.7,16.64,yes,medium,young adults,food,no,1069,19990.3,2.0599999999999987
+181233,front of store,20.7,19.35,no,high,seniors,clothing,no,2632,54482.4,1.3499999999999979
+147559,aisle,16.97,16.54,no,high,college students,clothing,no,2628,44597.159999999996,0.4299999999999997
+158151,aisle,36.75,34.84,no,low,young adults,food,no,626,23005.5,1.9099999999999966
+199194,front of store,8.58,4.65,yes,high,seniors,food,no,2315,19862.7,3.9299999999999997
+187447,front of store,30.46,26.95,yes,high,college students,food,yes,1253,38166.380000000005,3.5100000000000016
+175725,end-cap,39.97,39.71,yes,low,young adults,electronics,yes,1083,43287.51,0.259999999999998
+131107,aisle,31.79,26.83,no,low,young adults,clothing,yes,1089,34619.31,4.960000000000001
+186541,aisle,40.59,35.65,yes,high,young adults,clothing,no,2969,120511.71,4.940000000000005
+192046,front of store,20.24,20.18,yes,medium,families,food,no,1387,28072.879999999997,0.05999999999999872
+147306,aisle,18.5,15.38,no,low,college students,clothing,yes,1828,33818.0,3.119999999999999
+145684,front of store,46.36,42.96,yes,low,college students,electronics,no,2267,105098.12,3.3999999999999986
+118867,end-cap,11.15,8.08,no,medium,families,electronics,yes,2292,25555.8,3.0700000000000003
+143823,end-cap,47.99,43.86,yes,medium,young adults,electronics,yes,2230,107017.70000000001,4.130000000000003
+194433,aisle,21.67,18.77,no,low,young adults,food,no,2207,47825.69,2.900000000000002
+180551,end-cap,30.83,30.37,no,low,college students,food,no,1999,61629.17,0.4599999999999973
+180029,aisle,37.72,33.07,no,low,families,clothing,yes,1301,49073.72,4.649999999999999
+158671,end-cap,28.37,27.34,yes,medium,seniors,food,yes,1262,35802.94,1.0300000000000011
+196932,aisle,49.66,46.66,no,high,young adults,food,yes,2085,103541.09999999999,3.0
+188730,aisle,22.04,19.16,yes,medium,families,electronics,yes,2051,45204.04,2.879999999999999
+189853,end-cap,14.3,11.08,no,low,families,food,no,2479,35449.700000000004,3.2200000000000006
+169236,end-cap,13.52,9.5,yes,low,young adults,food,no,2234,30203.68,4.02
+157660,end-cap,17.99,14.93,no,medium,young adults,clothing,yes,821,14769.789999999999,3.0599999999999987
+119645,end-cap,26.07,24.32,no,high,young adults,food,yes,1634,42598.38,1.75
+142356,aisle,27.16,23.47,no,medium,families,food,yes,1207,32782.12,3.6900000000000013
+122078,end-cap,7.32,4.86,no,medium,young adults,electronics,yes,1124,8227.68,2.46
+161248,end-cap,12.8,11.34,no,low,college students,clothing,yes,1167,14937.6,1.4600000000000009
+171394,front of store,16.93,16.87,no,low,college students,clothing,no,2683,45423.19,0.05999999999999872
+151362,aisle,9.03,7.3,no,high,seniors,electronics,yes,1586,14321.579999999998,1.7299999999999995
+171225,aisle,11.0,9.72,no,medium,young adults,electronics,yes,689,7579.0,1.2799999999999994
+147968,front of store,10.27,10.14,no,low,families,clothing,yes,1995,20488.649999999998,0.129999999999999
+135533,end-cap,30.99,27.34,yes,low,college students,clothing,yes,2915,90335.84999999999,3.6499999999999986
+175517,aisle,37.72,37.04,no,high,families,clothing,yes,1732,65331.04,0.6799999999999997
+194339,aisle,32.67,29.65,no,medium,young adults,electronics,no,2749,89809.83,3.020000000000003
+181234,end-cap,40.78,40.35,yes,high,college students,electronics,yes,2262,92244.36,0.4299999999999997
+128647,front of store,13.33,9.52,no,high,young adults,food,no,1187,15822.710000000001,3.8100000000000005
+178865,end-cap,7.73,5.13,yes,medium,families,electronics,no,2525,19518.25,2.6000000000000005
+131452,aisle,28.43,27.71,no,medium,college students,electronics,yes,1056,30022.079999999998,0.7199999999999989
+146158,end-cap,41.9,40.31,yes,medium,families,food,yes,2737,114680.3,1.5899999999999963
+144475,aisle,23.7,19.85,no,medium,young adults,clothing,yes,957,22680.899999999998,3.849999999999998
+120176,front of store,45.03,44.13,no,medium,seniors,clothing,no,2560,115276.8,0.8999999999999986
+156007,aisle,31.89,27.8,yes,low,college students,clothing,no,648,20664.72,4.09
+138628,aisle,37.83,33.08,no,low,families,food,yes,645,24400.35,4.75
+178302,aisle,26.98,25.17,yes,medium,young adults,clothing,yes,1725,46540.5,1.8099999999999987
+144073,front of store,24.73,21.68,no,medium,young adults,clothing,yes,2293,56705.89,3.0500000000000007
+186997,aisle,28.66,27.62,yes,low,college students,clothing,yes,2064,59154.24,1.0399999999999991
+173396,end-cap,35.55,34.13,no,low,families,clothing,yes,1356,48205.799999999996,1.4199999999999946
+115038,end-cap,18.36,16.02,no,low,college students,clothing,yes,611,11217.96,2.34
+151967,front of store,31.14,30.98,yes,medium,young adults,clothing,yes,2680,83455.2,0.16000000000000014
+170937,front of store,16.58,15.92,no,low,young adults,food,no,507,8406.06,0.6599999999999984
+176947,end-cap,48.73,48.41,yes,high,young adults,electronics,no,1562,76116.26,0.3200000000000003
+181067,end-cap,29.39,26.88,no,medium,seniors,food,no,1418,41675.020000000004,2.5100000000000016
+192831,aisle,26.63,24.16,yes,low,young adults,clothing,yes,762,20292.059999999998,2.469999999999999
+119838,aisle,25.61,21.23,yes,medium,college students,electronics,no,2534,64895.74,4.379999999999999
+151923,aisle,48.91,43.95,yes,medium,families,food,yes,1701,83195.90999999999,4.959999999999994
+186652,end-cap,23.64,18.82,yes,medium,college students,clothing,yes,747,17659.08,4.82
+169576,aisle,45.3,43.21,yes,medium,seniors,clothing,yes,1463,66273.9,2.0899999999999963
+180911,end-cap,22.95,20.73,no,low,families,electronics,yes,1015,23294.25,2.219999999999999
+133294,front of store,41.51,41.39,yes,medium,young adults,food,no,2696,111910.95999999999,0.11999999999999744
+135689,end-cap,43.26,39.55,yes,medium,families,electronics,yes,1063,45985.38,3.710000000000001
+190951,aisle,44.53,40.86,no,high,seniors,electronics,no,2472,110078.16,3.6700000000000017
+163002,front of store,6.35,3.89,yes,high,young adults,clothing,no,1270,8064.5,2.4599999999999995
+190010,aisle,28.45,24.96,yes,medium,college students,clothing,no,2312,65776.4,3.4899999999999984
+177516,aisle,9.19,4.71,no,low,families,food,yes,2082,19133.579999999998,4.4799999999999995
+113847,front of store,31.3,27.14,no,high,families,food,no,712,22285.600000000002,4.16
+114370,aisle,49.5,45.77,yes,medium,college students,clothing,no,1017,50341.5,3.729999999999997
+154002,aisle,28.11,27.36,yes,high,families,food,no,887,24933.57,0.75
+125057,end-cap,30.59,30.0,yes,medium,college students,food,yes,660,20189.4,0.5899999999999999
+159070,end-cap,19.25,18.54,no,high,college students,electronics,yes,1280,24640.0,0.7100000000000009
+167705,front of store,15.21,13.53,yes,medium,families,electronics,yes,2196,33401.16,1.6800000000000015
+177177,aisle,24.9,24.44,yes,high,college students,electronics,yes,1432,35656.799999999996,0.4599999999999973
+192619,aisle,26.75,22.76,yes,high,college students,food,no,2279,60963.25,3.9899999999999984
+121605,front of store,13.58,11.21,no,low,young adults,electronics,no,1145,15549.1,2.369999999999999
+149245,end-cap,10.6,7.52,no,high,college students,electronics,no,771,8172.599999999999,3.08
+194369,aisle,9.81,9.53,no,high,college students,food,yes,2548,24995.88,0.28000000000000114
+135894,end-cap,36.9,33.72,yes,low,families,electronics,yes,1640,60516.0,3.1799999999999997
+127177,end-cap,35.44,30.67,yes,medium,families,electronics,no,565,20023.6,4.769999999999996
+144780,front of store,7.65,4.84,yes,high,families,electronics,no,1272,9730.800000000001,2.8100000000000005
+189870,end-cap,49.31,44.8,yes,low,young adults,electronics,yes,582,28698.420000000002,4.510000000000005
+179236,end-cap,33.41,28.67,yes,medium,families,clothing,yes,1270,42430.7,4.739999999999995
+134887,end-cap,47.79,46.97,no,low,seniors,electronics,yes,2118,101219.22,0.8200000000000003
+190184,end-cap,44.54,42.2,no,low,college students,clothing,yes,2820,125602.8,2.3399999999999963
+115318,front of store,21.79,17.46,no,high,college students,food,yes,2363,51489.77,4.329999999999998
+161907,front of store,34.69,31.14,no,medium,young adults,clothing,yes,1099,38124.31,3.549999999999997
+155997,end-cap,46.84,43.8,yes,low,college students,food,no,2534,118692.56000000001,3.0400000000000063
+166744,aisle,13.34,8.91,no,medium,families,clothing,yes,2309,30802.06,4.43
+129858,front of store,47.74,45.16,yes,high,college students,electronics,yes,2018,96339.32,2.5800000000000054
+158908,front of store,42.5,41.13,yes,high,seniors,food,yes,2100,89250.0,1.3699999999999974
+192048,end-cap,20.39,18.04,no,high,young adults,electronics,no,2512,51219.68,2.3500000000000014
+136294,end-cap,38.87,37.28,no,low,college students,food,yes,1706,66312.22,1.5899999999999963
+193043,front of store,49.14,45.02,no,low,families,clothing,no,2743,134791.02,4.119999999999997
+192787,end-cap,19.84,19.13,yes,medium,seniors,food,no,2569,50968.96,0.7100000000000009
+119150,end-cap,21.81,17.49,no,high,college students,food,no,1556,33936.36,4.32
+115266,front of store,27.9,25.48,no,low,families,electronics,no,1549,43217.1,2.419999999999998
+121186,front of store,6.77,5.62,no,medium,young adults,electronics,no,989,6695.53,1.1499999999999995
+144385,aisle,39.44,38.08,no,high,families,food,no,834,32892.96,1.3599999999999994
+161594,end-cap,49.52,45.71,yes,low,college students,food,yes,2108,104388.16,3.8100000000000023
+114320,aisle,6.11,1.77,yes,low,college students,clothing,no,558,3409.38,4.34
+167648,aisle,39.47,39.39,no,high,young adults,electronics,no,2990,118015.3,0.0799999999999983
+198500,front of store,29.39,26.11,yes,medium,college students,clothing,yes,1581,46465.590000000004,3.280000000000001
+120916,front of store,8.01,5.23,no,low,families,electronics,no,1139,9123.39,2.7799999999999994
+180422,aisle,22.74,19.43,yes,medium,seniors,clothing,no,1408,32017.92,3.3099999999999987
+136977,end-cap,20.56,17.87,yes,low,college students,clothing,yes,685,14083.599999999999,2.6899999999999977
+145902,aisle,11.9,9.17,yes,high,young adults,electronics,yes,2314,27536.600000000002,2.7300000000000004
+135734,aisle,20.45,19.41,yes,high,seniors,clothing,no,2805,57362.25,1.0399999999999991
+153230,end-cap,29.28,26.59,no,low,seniors,food,yes,565,16543.2,2.6900000000000013
+153722,aisle,47.67,43.0,no,medium,seniors,food,yes,1058,50434.86,4.670000000000002
+147361,end-cap,32.84,32.42,no,low,seniors,food,yes,563,18488.920000000002,0.4200000000000017
+158227,aisle,11.54,9.37,no,high,families,clothing,no,2721,31400.339999999997,2.17
+197123,front of store,37.09,33.18,yes,high,college students,electronics,no,2625,97361.25000000001,3.9100000000000037
+140321,end-cap,39.47,36.13,no,high,seniors,food,yes,687,27115.89,3.3399999999999963
+177510,front of store,37.07,36.38,yes,high,young adults,food,no,1768,65539.76,0.6899999999999977
+135786,aisle,27.36,25.74,yes,medium,seniors,electronics,yes,2987,81724.31999999999,1.620000000000001
+184980,end-cap,47.39,44.9,yes,medium,seniors,electronics,no,2788,132123.32,2.490000000000002
+152671,aisle,47.12,46.0,yes,high,families,food,no,1380,65025.6,1.1199999999999974
+155722,end-cap,29.53,26.18,yes,high,families,clothing,yes,1484,43822.520000000004,3.3500000000000014
+171570,end-cap,15.7,11.02,yes,high,seniors,clothing,yes,1353,21242.1,4.68
+181417,aisle,40.19,38.73,yes,medium,young adults,clothing,no,2728,109638.31999999999,1.4600000000000009
+157514,front of store,17.49,13.3,no,medium,college students,electronics,yes,937,16388.129999999997,4.189999999999998
+170515,front of store,38.45,38.05,no,low,families,electronics,yes,533,20493.850000000002,0.4000000000000057
+179736,aisle,17.03,13.4,no,high,young adults,electronics,no,1452,24727.56,3.630000000000001
+137969,end-cap,38.82,34.28,no,high,families,electronics,yes,1987,77135.34,4.539999999999999
+146503,front of store,27.63,26.37,yes,high,young adults,electronics,no,2410,66588.3,1.259999999999998
+115333,front of store,16.49,13.55,no,high,seniors,food,no,962,15863.38,2.9399999999999977
+162808,end-cap,36.43,33.6,yes,low,young adults,electronics,no,775,28233.25,2.8299999999999983
+114390,front of store,33.0,29.31,no,low,young adults,clothing,no,2674,88242.0,3.6900000000000013
+154882,aisle,20.81,18.58,no,low,college students,food,yes,889,18500.09,2.2300000000000004
+148460,aisle,20.89,17.37,no,medium,college students,food,yes,1433,29935.370000000003,3.5199999999999996
+188481,front of store,29.43,28.15,yes,high,young adults,electronics,no,1879,55298.97,1.2800000000000011
+197435,aisle,11.51,6.97,no,medium,young adults,clothing,no,2270,26127.7,4.54
+157169,end-cap,22.77,22.64,no,low,young adults,clothing,yes,841,19149.57,0.129999999999999
+184945,front of store,47.52,43.76,yes,low,families,food,no,1220,57974.4,3.760000000000005
+140927,aisle,46.55,44.71,no,low,young adults,food,yes,1745,81229.75,1.8399999999999963
+174621,aisle,26.66,26.54,no,medium,families,clothing,yes,680,18128.8,0.120000000000001
+137475,front of store,9.68,4.75,no,low,college students,food,yes,2258,21857.44,4.93
+184176,aisle,8.74,5.79,yes,medium,families,electronics,yes,2278,19909.72,2.95
+149169,end-cap,37.42,36.79,yes,medium,college students,electronics,no,2283,85429.86,0.6300000000000026
+126549,aisle,28.38,24.05,yes,low,college students,electronics,yes,2690,76342.2,4.329999999999998
+138995,front of store,43.32,42.81,no,high,young adults,electronics,no,541,23436.12,0.509999999999998
+110220,front of store,48.11,44.43,yes,low,seniors,electronics,yes,660,31752.6,3.6799999999999997
+133770,front of store,19.87,18.07,yes,high,college students,electronics,yes,1978,39302.86,1.8000000000000007
+165819,front of store,7.09,2.82,yes,medium,families,electronics,no,1801,12769.09,4.27
+191957,front of store,24.07,19.86,yes,medium,college students,food,yes,1199,28859.93,4.210000000000001
+178701,end-cap,20.04,15.24,no,low,young adults,clothing,yes,2921,58536.84,4.799999999999999
+181111,front of store,46.12,43.68,no,high,families,food,no,633,29193.96,2.4399999999999977
+183252,aisle,23.24,19.35,yes,medium,young adults,clothing,no,792,18406.079999999998,3.889999999999997
+182755,end-cap,9.14,8.68,no,high,young adults,food,no,1380,12613.2,0.46000000000000085
+143247,aisle,35.4,33.28,no,medium,families,clothing,yes,2845,100713.0,2.1199999999999974
+118346,front of store,49.68,46.58,no,high,seniors,clothing,yes,2656,131950.08,3.1000000000000014
+182563,aisle,13.1,13.0,no,low,families,clothing,yes,2211,28964.1,0.09999999999999964
+120300,end-cap,16.18,15.84,yes,low,young adults,food,yes,2698,43653.64,0.33999999999999986
+184596,aisle,41.83,37.17,yes,low,young adults,clothing,no,2745,114823.34999999999,4.659999999999997
+165690,end-cap,20.4,18.71,no,low,college students,food,yes,2069,42207.6,1.6899999999999977
+148366,end-cap,19.63,17.77,no,medium,seniors,food,no,935,18354.05,1.8599999999999994
+154931,aisle,31.27,28.47,yes,medium,families,clothing,yes,1514,47342.78,2.8000000000000007
+129915,front of store,14.36,12.58,no,high,seniors,electronics,yes,2302,33056.72,1.7799999999999994
+129854,end-cap,13.36,12.36,no,low,families,clothing,yes,1864,24903.039999999997,1.0
+196418,aisle,39.11,35.48,yes,medium,seniors,food,yes,1456,56944.159999999996,3.6300000000000026
+147140,aisle,12.72,11.72,no,low,seniors,food,yes,2224,28289.280000000002,1.0
+176622,end-cap,14.7,14.24,no,low,young adults,electronics,no,2168,31869.6,0.4599999999999991
+180566,aisle,33.32,32.9,yes,high,college students,clothing,yes,1897,63208.04,0.4200000000000017
+124273,end-cap,44.99,44.48,yes,high,young adults,food,yes,2343,105411.57,0.5100000000000051
+159902,aisle,34.75,31.6,no,medium,seniors,electronics,no,1889,65642.75,3.1499999999999986
+163182,aisle,43.05,41.66,no,low,seniors,electronics,no,1390,59839.49999999999,1.3900000000000006
+121303,front of store,24.35,23.42,yes,high,young adults,clothing,yes,1130,27515.5,0.9299999999999997
+162658,end-cap,11.56,8.61,no,medium,families,electronics,yes,1133,13097.480000000001,2.950000000000001
+146858,front of store,47.72,46.78,no,medium,college students,food,yes,565,26961.8,0.9399999999999977
+174565,aisle,21.3,18.71,yes,high,seniors,electronics,no,890,18957.0,2.59
+160629,aisle,22.82,19.13,no,medium,seniors,electronics,yes,2538,57917.16,3.6900000000000013
+150654,end-cap,6.38,5.25,yes,medium,young adults,electronics,no,2884,18399.92,1.13
