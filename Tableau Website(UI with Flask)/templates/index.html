@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Strategic Product Placement Analysis | Home</title>
+  <meta name="description"
+    content="Strategic Product Placement Analysis — Unveiling Sales Impact with Tableau Visualization." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;600;700;900&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}" />
+</head>
+
+<body>
+  <div class="bg-gradient"></div>
+  <div class="particles" id="particles"></div>
+
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <div class="nav-container">
+      <div class="nav-logo">
+        <div class="logo-icon">
+          <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="32" height="32" rx="8" fill="url(#lg)" />
+            <rect x="7" y="18" width="4" height="8" rx="1" fill="white" opacity="0.9" />
+            <rect x="14" y="12" width="4" height="14" rx="1" fill="white" />
+            <rect x="21" y="6" width="4" height="20" rx="1" fill="white" opacity="0.7" />
+            <defs>
+              <linearGradient id="lg" x1="0" y1="0" x2="32" y2="32">
+                <stop offset="0%" stop-color="#6366f1" />
+                <stop offset="100%" stop-color="#8b5cf6" />
+              </linearGradient>
+            </defs>
+          </svg>
+        </div>
+        <span class="logo-text">ProductInsight</span>
+      </div>
+      <nav class="nav-links">
+        <a href="/" class="nav-link active">Home</a>
+        <a href="/dashboard" class="nav-link">Dashboard</a>
+        <a href="/story" class="nav-link">Story</a>
+      </nav>
+      <div class="nav-badge"><span class="badge-dot"></span>Live Analytics</div>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-content">
+      <div class="hero-tag"><span class="tag-icon">📊</span>Data Analytics with Tableau — KIET</div>
+      <h1 class="hero-title">
+        Strategic Product<br />
+        <span class="gradient-text">Placement Analysis</span>
+      </h1>
+      <p class="hero-subtitle">
+        Unveiling Sales Impact through interactive Tableau visualizations — exploring product positioning, payment
+        trends, and category performance.
+      </p>
+    </div>
+  </section>
+
+  <!-- PAGE CARDS -->
+  <section class="pages-section">
+    <div class="section-header">
+      <h2 class="section-title">Explore the Analysis</h2>
+      <p class="section-subtitle">Choose a view to dive into the data.</p>
+    </div>
+    <div class="page-cards">
+
+      <!-- Dashboard Card -->
+      <a href="/dashboard" class="page-card" id="dashboardCard">
+        <div class="page-card-glow dashboard-glow"></div>
+        <div class="page-card-icon" style="background: linear-gradient(135deg,#6366f1,#8b5cf6);">
+          <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+            <rect x="3" y="3" width="12" height="12" rx="3" fill="white" opacity="0.9" />
+            <rect x="17" y="3" width="12" height="5" rx="2.5" fill="white" opacity="0.7" />
+            <rect x="17" y="10" width="12" height="5" rx="2.5" fill="white" opacity="0.5" />
+            <rect x="3" y="17" width="26" height="12" rx="3" fill="white" opacity="0.8" />
+          </svg>
+        </div>
+        <div class="page-card-body">
+          <h3 class="page-card-title">Dashboard</h3>
+          <p class="page-card-desc">Interactive multi-panel dashboard — explore avg sales by category, foot traffic,
+            consumer demographics, and price analysis side-by-side.</p>
+          <div class="page-card-tags">
+            <span class="tag">Sales Volume</span>
+            <span class="tag">Demographics</span>
+            <span class="tag">Product Categories</span>
+          </div>
+        </div>
+        <div class="page-card-arrow">→</div>
+      </a>
+
+      <!-- Story Card -->
+      <a href="/story" class="page-card" id="storyCard">
+        <div class="page-card-glow story-glow"></div>
+        <div class="page-card-icon" style="background: linear-gradient(135deg,#ec4899,#f43f5e);">
+          <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+            <rect x="3" y="4" width="26" height="18" rx="3" fill="white" opacity="0.8" />
+            <path d="M8 28 L16 22 L24 28" fill="white" opacity="0.5" />
+            <circle cx="10" cy="12" r="3" fill="#ec4899" opacity="0.9" />
+            <rect x="15" y="10" width="9" height="2" rx="1" fill="#6366f1" opacity="0.9" />
+            <rect x="15" y="14" width="6" height="2" rx="1" fill="#6366f1" opacity="0.6" />
+          </svg>
+        </div>
+        <div class="page-card-body">
+          <h3 class="page-card-title">Story</h3>
+          <p class="page-card-desc">Guided data story — a narrative walkthrough of key findings, from product placement
+            impact to payment method trends, scene by scene.</p>
+          <div class="page-card-tags">
+            <span class="tag">Narrative</span>
+            <span class="tag">Story Scenes</span>
+            <span class="tag">Key Findings</span>
+          </div>
+        </div>
+        <div class="page-card-arrow">→</div>
+      </a>
+
+    </div>
+  </section>
+
+  <!-- INSIGHTS -->
+  <section class="insights-section" id="insights">
+    <div class="section-header">
+      <h2 class="section-title">🔍 Key Insights</h2>
+      <p class="section-subtitle">What this analysis reveals about product placement and sales performance.</p>
+    </div>
+    <div class="insights-grid">
+      <div class="insight-card">
+        <div class="insight-icon" style="background:linear-gradient(135deg,#6366f1,#8b5cf6);">📦</div>
+        <h3>Product Placement Impact</h3>
+        <p>Analyzing how shelf and store placement correlates with sales volume across Electronics, Clothing, and Food.
+        </p>
+      </div>
+      <div class="insight-card">
+        <div class="insight-icon" style="background:linear-gradient(135deg,#ec4899,#f43f5e);">💳</div>
+        <h3>Payment Method Trends</h3>
+        <p>Discovering which payment types drive higher transaction values and how preferences vary by product segment.
+        </p>
+      </div>
+      <div class="insight-card">
+        <div class="insight-icon" style="background:linear-gradient(135deg,#10b981,#059669);">📅</div>
+        <h3>Seasonal Patterns</h3>
+        <p>Identifying sales fluctuations across seasons and peak demand periods for strategic inventory planning.</p>
+      </div>
+      <div class="insight-card">
+        <div class="insight-icon" style="background:linear-gradient(135deg,#f59e0b,#f97316);">🎯</div>
+        <h3>Consumer Demographics</h3>
+        <p>Mapping buyer profiles to categories to understand which demographics drive the most revenue.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="footer-content">
+      <span class="logo-text">ProductInsight</span>
+      <p class="footer-text">Strategic Product Placement Analysis — Data Analytics with Tableau | KIET</p>
+      <p class="footer-credit">Built with Flask &amp; Tableau Public</p>
+      <p class="footer-credit" style="margin-top:6px;font-size:0.8rem;opacity:0.7;">✨ Made by <strong>Pulkit</strong>
+        &amp; Team <strong>Mahaveera</strong></p>
+    </div>
+  </footer>
+
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+
+</html>

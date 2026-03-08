@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard | Product Placement Analysis</title>
+    <meta name="description" content="Interactive Tableau Dashboard — Product Placement & Payment Analysis." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;600;700;900&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/embed.css') }}" />
+</head>
+
+<body>
+    <div class="bg-gradient"></div>
+    <div class="particles" id="particles"></div>
+
+    <!-- NAVBAR -->
+    <header class="navbar">
+        <div class="nav-container">
+            <a href="/" class="nav-logo" style="text-decoration:none;">
+                <div class="logo-icon">
+                    <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <rect width="32" height="32" rx="8" fill="url(#lg)" />
+                        <rect x="7" y="18" width="4" height="8" rx="1" fill="white" opacity="0.9" />
+                        <rect x="14" y="12" width="4" height="14" rx="1" fill="white" />
+                        <rect x="21" y="6" width="4" height="20" rx="1" fill="white" opacity="0.7" />
+                        <defs>
+                            <linearGradient id="lg" x1="0" y1="0" x2="32" y2="32">
+                                <stop offset="0%" stop-color="#6366f1" />
+                                <stop offset="100%" stop-color="#8b5cf6" />
+                            </linearGradient>
+                        </defs>
+                    </svg>
+                </div>
+                <span class="logo-text">ProductInsight</span>
+            </a>
+            <nav class="nav-links">
+                <a href="/" class="nav-link">Home</a>
+                <a href="/dashboard" class="nav-link active">Dashboard</a>
+                <a href="/story" class="nav-link">Story</a>
+            </nav>
+            <div class="nav-badge"><span class="badge-dot"></span>Live Analytics</div>
+        </div>
+    </header>
+
+    <!-- PAGE HEADER -->
+    <div class="embed-page-header">
+        <div class="embed-page-header-inner">
+            <a href="/" class="back-btn">← Back</a>
+            <div class="embed-page-title-block">
+                <div class="embed-page-badge"
+                    style="background:rgba(99,102,241,0.12);border-color:rgba(99,102,241,0.3);color:#818cf8;">
+                    <span>📊</span> Dashboard View
+                </div>
+                <h1 class="embed-page-title">Product Placement Analysis — <span class="gradient-text">Dashboard</span>
+                </h1>
+                <p class="embed-page-subtitle">Multi-panel interactive overview of sales volume, foot traffic,
+                    demographics, and pricing across product categories.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- TABLEAU EMBED -->
+    <div class="embed-section">
+        <div class="tableau-card">
+            <div class="tableau-card-header">
+                <div class="card-header-left">
+                    <div class="card-dot red"></div>
+                    <div class="card-dot yellow"></div>
+                    <div class="card-dot green"></div>
+                </div>
+                <span class="card-title">PRODUCT PAYMENT ANALYSIS — DASHBOARD</span>
+                <a href="https://public.tableau.com/views/PRODUCTPAYMENTANALYSIS-DASHBOARD/PRODUCTPAYMENTANALYSIS-DASHBOARD"
+                    target="_blank" rel="noopener noreferrer" class="open-tableau-btn">↗ Open Full View</a>
+            </div>
+            <div class="tableau-embed-container">
+                <div class='tableauPlaceholder' id='viz_dashboard' style='position:relative;width:100%;height:100%;'>
+                    <noscript>
+                        <a href='#'><img alt='Dashboard'
+                                src='https://public.tableau.com/static/images/PR/PRODUCTPAYMENTANALYSIS-DASHBOARD/Story1/1_rss.png'
+                                style='border:none' /></a>
+                    </noscript>
+                    <object class='tableauViz' style='display:none;'>
+                        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                        <param name='embed_code_version' value='3' />
+                        <param name='site_root' value='' />
+                        <param name='name'
+                            value='PRODUCTPAYMENTANALYSIS-DASHBOARD&#47;PRODUCTPAYMENTANALYSIS-DASHBOARD' />
+                        <param name='tabs' value='no' />
+                        <param name='toolbar' value='yes' />
+                        <param name='static_image'
+                            value='https://public.tableau.com/static/images/PR/PRODUCTPAYMENTANALYSIS-DASHBOARD/Story1/1.png' />
+                        <param name='animate_transition' value='yes' />
+                        <param name='display_static_image' value='yes' />
+                        <param name='display_spinner' value='yes' />
+                        <param name='display_overlay' value='yes' />
+                        <param name='display_count' value='yes' />
+                        <param name='language' value='en-US' />
+                    </object>
+                </div>
+                <script type='text/javascript'>
+                    var divElement = document.getElementById('viz_dashboard');
+                    var vizElement = divElement.getElementsByTagName('object')[0];
+                    vizElement.style.width = '100%';
+                    vizElement.style.height = '714px';
+                    var scriptElement = document.createElement('script');
+                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+                </script>
+            </div>
+        </div>
+
+        <!-- NAV to Story -->
+        <div class="page-switcher">
+            <span class="switcher-label">Also explore:</span>
+            <a href="/story" class="switcher-btn story-btn">
+                <span>📖</span> View Story →
+            </a>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <span class="logo-text">ProductInsight</span>
+            <p class="footer-text">Strategic Product Placement Analysis — Data Analytics with Tableau | KIET</p>
+            <p class="footer-credit">Built with Flask &amp; Tableau Public</p>
+            <p class="footer-credit" style="margin-top:6px;font-size:0.8rem;opacity:0.7;">✨ Made by
+                <strong>Pulkit</strong> &amp; Team <strong>Mahaveera</strong></p>
+        </div>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+
+</html>
